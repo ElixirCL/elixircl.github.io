@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.16">
+<title>Elixir Chile 🇨🇱</title>
+<style>
+/* https://github.com/darshandsoni/asciidoctor-skins/blob/gh-pages/css/dark.css */
+/* Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
+
+@import url(//fonts.googleapis.com/css?family=Noto+Sans);
+@import url(https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@2.0/data/stylesheets/asciidoctor-default.css); /* Default asciidoc style framework - important */
+
+/* CUSTOMISATIONS */
+/* Change the values in root for quick customisation. If you want even more fine grain... venture further. */
+:root{
+--maincolor:#282c34;
+--primarycolor:#f39c12;
+--secondarycolor:#03a9f4;
+--tertiarycolor:#4db6ac;
+--sidebarbackground:#21252b;
+--linkcolor:#f44336;
+--linkcoloralternate:#ff9800;
+--white:#FFFFFF;
+}
+
+/* Text styles */
+
+body{font-family: "Noto Sans",sans-serif;background-color: var(--maincolor);color:var(--white);}
+
+h1{color:var(--primarycolor) !important;font-family:"Noto Sans",sans-serif;}
+h2,h3,h4,h5,h6{color:var(--secondarycolor) !important;font-family:"Noto Sans",sans-serif;}
+.title{color:var(--white) !important;font-family:"Noto Sans",sans-serif;font-style: normal; font-weight: normal;}
+p{font-family: "Noto Sans",sans-serif ! important}
+#toc.toc2 a:link{color:var(--linkcolor);}
+.toc {background-color: var(--maincolor) !important;color:var(--white);}
+blockquote{color:var(--tertiarycolor) !important}
+.quoteblock{color:var(--white)}
+code{color:var(--linkcoloralternate);background-color: var(--sidebarbackground) !important}
+
+
+/* Table styles */
+th{background-color: var(--maincolor);color:var(--white) !important;}
+td{background-color: var(--maincolor);color: var(--linkcoloralternate) !important}
+
+
+#toc.toc2{background-color:var(--sidebarbackground);}
+#toctitle{color:var(--white);}
+
+/* Responsiveness fixes */
+video {
+  max-width: 100%;
+}
+
+@media all and (max-width: 600px) {
+  table {
+    width: 55vw!important;
+    font-size: 3vw;
+  }
+}
+
+.exampleblock > .content {
+  background-color: var(--maincolor);
+}
+
+a {
+  color: var(--secondarycolor);
+}
+
+.admonitionblock td.icon .icon-tip::before {
+  text-shadow: none;
+  color: var(--white);
+}
+.admonitionblock td.icon .icon-note::before {
+  color: var(--tertiarycolor);
+}
+.admonitionblock td.icon .icon-important::before {
+  color: var(--linkcolor);
+}
+/*.admonitionblock td.icon .icon-caution::before {
+  color: var(--linkcoloralternate);
+}*/
+.admonitionblock td.icon .icon-warning::before {
+  color: var(--primarycolor);
+}
+
+#preamble > .sectionbody > .paragraph:first-of-type p {
+  color: var(--white);
+}
+
+.quoteblock blockquote::before {
+  color: var(--primarycolor);
+}
+.quoteblock .attribution cite, .verseblock .attribution cite {
+  color: var(--white);
+}
+.verseblock pre {
+  color: var(--white);
+}
+.quoteblock blockquote, .quoteblock blockquote p {
+  color: var(--white);
+}
+
+.sidebarblock {
+  background: var(--sidebarbackground);
+}
+.literalblock pre, .listingblock pre:not(.highlight), .listingblock pre[class="highlight"], .listingblock pre[class^="highlight "], .listingblock pre.CodeRay, .listingblock pre.prettyprint {
+  background: var(--sidebarbackground);
+  color: var(--white);
+}
+
+#header .details {
+  color: var(--white);
+}
+#header .details span.email a {
+  color: var(--linkcoloralternate);
+}
+
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>Elixir Chile 🇨🇱</h1>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>Elixir Chile 🇨🇱 tiene el objetivo de crear artefactos
+de software, documentación y actividades para el fomento de
+la tecnología <a href="https://elixir-lang.org/"><em>Elixir</em></a> en el país.</p>
+</div>
+<div id="toc" class="toc">
+<div id="toctitle" class="title">Tabla de Contenidos</div>
+<ul class="sectlevel1">
+<li><a href="#_estándares">Estándares</a></li>
+<li><a href="#_telegram">Telegram</a></li>
+<li><a href="#_comunidades_amigas">Comunidades Amigas</a>
+<ul class="sectlevel2">
+<li><a href="#_elixir_oficial">Elixir Oficial</a></li>
+<li><a href="#_elixir_japan">Elixir Japan</a></li>
+<li><a href="#_devs_chile">Devs Chile</a></li>
+</ul>
+</li>
+<li><a href="#_empresas">Empresas</a>
+<ul class="sectlevel2">
+<li><a href="#_consultoras_internacionales">Consultoras Internacionales</a></li>
+<li><a href="#_empresas_chilenas">Empresas Chilenas</a></li>
+</ul>
+</li>
+<li><a href="#_cursos_recomendados">Cursos Recomendados</a>
+<ul class="sectlevel2">
+<li><a href="#_libros">Libros</a></li>
+</ul>
+</li>
+<li><a href="#_herramientas_recomendadas">Herramientas Recomendadas</a></li>
+<li><a href="#_hosting">Hosting</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_estándares">Estándares</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Los artefactos de software deben ser de alta calidad,
+utilizando las herramientas y buenas prácticas que se esperan
+de un producto que pueda ser usado en ambientes de producción.</p>
+</div>
+<div class="paragraph">
+<p>Para esto deben cumplir con lo siguiente:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Correctamente documentados utilizando <a href="https://hexdocs.pm/elixir/master/writing-documentation.html">HexDocs</a> y <a href="https://asciidoctor.org/">Asciidoc</a> cuando <em>HexDocs</em> no sea apropiado.</p>
+</li>
+<li>
+<p>Funciones con especificación y tipos <a href="https://hexdocs.pm/elixir/master/typespecs.html">Typespecs</a>.</p>
+</li>
+<li>
+<p>Seguir buenas prácticas de <a href="https://hexdocs.pm/mix/master/Mix.Tasks.Test.html">TDD</a> y tener un buen puntaje de <a href="https://hexdocs.pm/mix/master/Mix.Tasks.Test.html#module-coverage">coverage</a>.</p>
+</li>
+<li>
+<p>Utilizar <a href="https://github.com/rrrene/credo/">Credo</a> para análisis de código estático.</p>
+</li>
+<li>
+<p>Seguir las recomendaciones de <a href="https://www.dddcommunity.org/books/">DDD</a> cuando sea prudente.</p>
+</li>
+<li>
+<p>Utilizar la licencia <a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License v2.0</a> para el código y <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a> para los artefactos como documentación, imágenes u otros.</p>
+</li>
+<li>
+<p>Soportar como mínimo, las últimas dos versiones del lenguaje.</p>
+</li>
+<li>
+<p>Utilizar <a href="https://github.com/romversioning/romver">Romantic Versioning</a>, partiendo desde la version <em>1.0.0</em>.</p>
+</li>
+<li>
+<p>Utilizar un <a href="https://keepachangelog.com/es-ES/1.0.0/">Changelog</a>.</p>
+</li>
+<li>
+<p>Utilizar un archivo de <a href="https://editorconfig.org/"><code>.editorconfig</code></a>.</p>
+</li>
+<li>
+<p>Seguir, en lo posible, la <a href="https://en.wikipedia.org/wiki/Unix_philosophy">filosofía Unix</a>.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_telegram">Telegram</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Nuestro Telegram Oficial es <a href="https://t.me/elixircl">ElixirCL</a>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_comunidades_amigas">Comunidades Amigas</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_elixir_oficial"><a href="https://elixir-slackin.herokuapp.com/">Elixir Oficial</a></h3>
+<div class="paragraph">
+<p>El canal oficial de <em>Elixir</em>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_elixir_japan"><a href="https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w">Elixir Japan</a></h3>
+<div class="paragraph">
+<p>El canal de <a href="https://elixirjp.slack.com/archives/C01JMMZM0SH"><code>#autoraceex</code></a> es un buen canal para compartir
+el amor por <em>Elixir</em>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_devs_chile"><a href="https://devschile.cl/">Devs Chile</a></h3>
+<div class="paragraph">
+<p>Comunidad de devs chilenos.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_empresas">Empresas</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Empresas que utilizan <em>Elixir</em>.</p>
+</div>
+<div class="sect2">
+<h3 id="_consultoras_internacionales">Consultoras Internacionales</h3>
+<div class="paragraph">
+<p>Si se busca asesoría o consultoría en este lenguaje.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://dashbit.co" class="bare">https://dashbit.co</a></p>
+</li>
+<li>
+<p><a href="https://serokell.io/" class="bare">https://serokell.io/</a></p>
+</li>
+<li>
+<p><a href="https://www.wyeworks.com/" class="bare">https://www.wyeworks.com/</a></p>
+</li>
+<li>
+<p><a href="https://newaperio.com/" class="bare">https://newaperio.com/</a></p>
+</li>
+<li>
+<p><a href="https://revelry.co/" class="bare">https://revelry.co/</a></p>
+</li>
+<li>
+<p><a href="https://erlef.org/" class="bare">https://erlef.org/</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_empresas_chilenas">Empresas Chilenas</h3>
+<div class="paragraph">
+<p>Empresas que utilizan <em>Elixir</em> dentro de sus sistemas o proyectos.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_cursos_recomendados">Cursos Recomendados</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://grox.io/" class="bare">https://grox.io/</a></p>
+</li>
+<li>
+<p><a href="https://codestool.coding-gnome.com/courses/elixir-for-programmers-2" class="bare">https://codestool.coding-gnome.com/courses/elixir-for-programmers-2</a></p>
+</li>
+<li>
+<p><a href="https://pragmaticstudio.com/" class="bare">https://pragmaticstudio.com/</a></p>
+</li>
+<li>
+<p><a href="https://elixirschool.com/en" class="bare">https://elixirschool.com/en</a></p>
+</li>
+<li>
+<p><a href="https://elixircasts.io/" class="bare">https://elixircasts.io/</a></p>
+</li>
+<li>
+<p><a href="https://alchemist.camp/episodes" class="bare">https://alchemist.camp/episodes</a></p>
+</li>
+</ul>
+</div>
+<div class="sect2">
+<h3 id="_libros">Libros</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.manning.com/books/elixir-in-action-second-edition" class="bare">https://www.manning.com/books/elixir-in-action-second-edition</a></p>
+</li>
+<li>
+<p><a href="https://pragprog.com/titles/liveview/programming-phoenix-liveview/" class="bare">https://pragprog.com/titles/liveview/programming-phoenix-liveview/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_herramientas_recomendadas">Herramientas Recomendadas</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.phoenixframework.org/" class="bare">https://www.phoenixframework.org/</a> : Para desarrollo de aplicaciones web.</p>
+</li>
+<li>
+<p><a href="https://surface-ui.org/" class="bare">https://surface-ui.org/</a> : Complemento de <em>Phoenix</em> para Renderizar <em>HTML</em> basado en Componentes (Similar a <em>React.js</em>).</p>
+</li>
+<li>
+<p><a href="https://thinkingelixir.com/petal-stack-in-elixir/" class="bare">https://thinkingelixir.com/petal-stack-in-elixir/</a>. Stack recomendado <em>PETAL</em>.</p>
+</li>
+<li>
+<p><a href="https://www.nerves-project.org/" class="bare">https://www.nerves-project.org/</a> : Para desarrollo <em>IoT</em>.</p>
+</li>
+<li>
+<p><a href="https://github.com/elixir-desktop" class="bare">https://github.com/elixir-desktop</a> : Para aplicaciones de escritorio y mobile.</p>
+</li>
+<li>
+<p><a href="https://github.com/elixir-nx" class="bare">https://github.com/elixir-nx</a> : Para desarrollo de Machine Learning.</p>
+</li>
+<li>
+<p><a href="https://www.grisp.org" class="bare">https://www.grisp.org</a> : Para plataformas de sistemas incrustados.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_hosting">Hosting</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.gigalixir.com/" class="bare">https://www.gigalixir.com/</a></p>
+</li>
+<li>
+<p><a href="https://render.com/" class="bare">https://render.com/</a></p>
+</li>
+<li>
+<p><em>VPS</em> (Digital Ocean, Linode, Vultr).</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2022-03-25 05:57:54 -0300
+</div>
+</div>
+</body>
+</html>

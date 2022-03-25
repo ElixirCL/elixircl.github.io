@@ -1,0 +1,112 @@
+:toc: macro
+:toc-title: Tabla de Contenidos
+:toclevels: 3
+:ext-relative:
+:stylesheet: style.css
+
+# Elixir Chile 🇨🇱
+
+Elixir Chile 🇨🇱 tiene el objetivo de crear artefactos
+de software, documentación y actividades para el fomento de
+la tecnología https://elixir-lang.org/[_Elixir_] en el país.
+
+toc::[]
+
+## Estándares
+
+Los artefactos de software deben ser de alta calidad,
+utilizando las herramientas y buenas prácticas que se esperan
+de un producto que pueda ser usado en ambientes de producción.
+
+Para esto deben cumplir con lo siguiente:
+
+- Correctamente documentados utilizando https://hexdocs.pm/elixir/master/writing-documentation.html[HexDocs] y https://asciidoctor.org/[Asciidoc] cuando _HexDocs_ no sea apropiado.
+
+- Funciones con especificación y tipos https://hexdocs.pm/elixir/master/typespecs.html[Typespecs].
+
+- Seguir buenas prácticas de https://hexdocs.pm/mix/master/Mix.Tasks.Test.html[TDD] y tener un buen puntaje de https://hexdocs.pm/mix/master/Mix.Tasks.Test.html#module-coverage[coverage].
+
+- Utilizar https://github.com/rrrene/credo/[Credo] para análisis de código estático.
+
+- Seguir las recomendaciones de https://www.dddcommunity.org/books/[DDD] cuando sea prudente.
+
+- Utilizar la licencia https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License v2.0] para el código y https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es[Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)] para los artefactos como documentación, imágenes u otros.
+
+- Soportar como mínimo, las últimas dos versiones del lenguaje.
+
+- Utilizar https://github.com/romversioning/romver[Romantic Versioning], partiendo desde la version _1.0.0_.
+
+- Utilizar un https://keepachangelog.com/es-ES/1.0.0/[Changelog].
+
+- Utilizar un archivo de https://editorconfig.org/[`.editorconfig`].
+
+- Seguir, en lo posible, la https://en.wikipedia.org/wiki/Unix_philosophy[filosofía Unix].
+
+
+## Telegram
+
+Nuestro Telegram Oficial es https://t.me/elixircl[ElixirCL].
+
+## Comunidades Amigas
+
+### https://elixir-slackin.herokuapp.com/[Elixir Oficial]
+
+El canal oficial de _Elixir_.
+
+### https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w[Elixir Japan]
+
+El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un buen canal para compartir
+el amor por _Elixir_.
+
+### https://devschile.cl/[Devs Chile]
+
+Comunidad de devs chilenos.
+
+## Empresas
+
+Empresas que utilizan _Elixir_.
+
+### Consultoras Internacionales
+
+Si se busca asesoría o consultoría en este lenguaje.
+
+- https://dashbit.co
+- https://serokell.io/
+- https://www.wyeworks.com/
+- https://newaperio.com/
+- https://revelry.co/
+- https://erlef.org/
+
+### Empresas Chilenas
+
+Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
+
+## Cursos Recomendados
+
+- https://grox.io/
+- https://codestool.coding-gnome.com/courses/elixir-for-programmers-2
+- https://pragmaticstudio.com/
+- https://elixirschool.com/en
+- https://elixircasts.io/
+- https://alchemist.camp/episodes
+
+### Libros
+
+- https://www.manning.com/books/elixir-in-action-second-edition
+- https://pragprog.com/titles/liveview/programming-phoenix-liveview/
+
+## Herramientas Recomendadas
+
+- https://www.phoenixframework.org/ : Para desarrollo de aplicaciones web.
+- https://surface-ui.org/ : Complemento de _Phoenix_ para Renderizar _HTML_ basado en Componentes (Similar a _React.js_).
+- https://thinkingelixir.com/petal-stack-in-elixir/. Stack recomendado _PETAL_.
+- https://www.nerves-project.org/ : Para desarrollo _IoT_.
+- https://github.com/elixir-desktop : Para aplicaciones de escritorio y mobile.
+- https://github.com/elixir-nx : Para desarrollo de Machine Learning.
+- https://www.grisp.org : Para plataformas de sistemas incrustados.
+
+## Hosting
+
+- https://www.gigalixir.com/
+- https://render.com/
+- _VPS_ (Digital Ocean, Linode, Vultr).
