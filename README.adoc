@@ -57,7 +57,7 @@ Para esto deben cumplir con lo siguiente:
 
 - Telegram: https://t.me/elixircl[Si prefieres Telegram].
 
-- Foro: https://github.com/ElixirCL/elixircl.github.io/discussions[Github Discussions].
+- Foro: https://github.com/ElixirCL/elixircl/discussions[Github Discussions].
 
 - Wiki: https://github.com/ElixirCL/elixircl/wiki[Github Wiki].
 
