@@ -18,6 +18,31 @@ la tecnología https://elixir-lang.org/[_Elixir_] en el país.
 
 toc::[]
 
+
+## Comunidad
+
+- Discord: https://discord.gg/WwSXMcMdAt[Unirse a Discord de Elixir Chile].
+
+- Telegram: https://t.me/elixircl[Si prefieres Telegram].
+
+- Foro: https://github.com/ElixirCL/elixircl/discussions[Github Discussions].
+
+- Wiki: https://github.com/ElixirCL/elixircl/wiki[Github Wiki].
+
+## Comunidades Amigas
+
+### https://elixir-slackin.herokuapp.com/[Elixir Oficial]
+
+El chat oficial de _Elixir_. Quizás puedas visitar el canal https://elixir-lang.slack.com/archives/C0N8NB332[`#chile`].
+
+### https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w[Elixir Japan]
+
+El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un buen sitio para compartir el amor por _Elixir_.
+
+### https://devschile.cl/[Devs Chile]
+
+Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
+
 ## Estándares
 
 Los artefactos de software deben ser de alta calidad,
@@ -50,31 +75,6 @@ Para esto deben cumplir con lo siguiente:
 
 - Seguir, de preferencia, la guía de estilo: https://nimblehq.co/compass/development/code-conventions/elixir/
 
-
-## Comunidad
-
-- Discord: https://discord.gg/WwSXMcMdAt[Unirse a Discord de Elixir Chile].
-
-- Telegram: https://t.me/elixircl[Si prefieres Telegram].
-
-- Foro: https://github.com/ElixirCL/elixircl/discussions[Github Discussions].
-
-- Wiki: https://github.com/ElixirCL/elixircl/wiki[Github Wiki].
-
-## Comunidades Amigas
-
-### https://elixir-slackin.herokuapp.com/[Elixir Oficial]
-
-El chat oficial de _Elixir_. Quizás puedas visitar el canal https://elixir-lang.slack.com/archives/C0N8NB332[`#chile`].
-
-### https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w[Elixir Japan]
-
-El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un buen sitio para compartir el amor por _Elixir_.
-
-### https://devschile.cl/[Devs Chile]
-
-Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
-
 ## Empresas
 
 Empresas que utilizan _Elixir_.
@@ -94,6 +94,8 @@ Si se busca asesoría o consultoría en este lenguaje.
 
 Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
 
+- _(Se aceptan PRs)_
+
 ## Cursos Recomendados
 
 - https://grox.io/
@@ -102,6 +104,11 @@ Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
 - https://elixirschool.com/en
 - https://elixircasts.io/
 - https://alchemist.camp/episodes
+
+### ¿Dónde aprender?
+
+Te recomendamos utilizar https://exercism.org/tracks/elixir/[Exercism], 
+resolviendo los problemas podrás aprender más el lenguaje.
 
 ### Libros
 
