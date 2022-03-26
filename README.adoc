@@ -10,6 +10,12 @@ Elixir Chile 🇨🇱 tiene el objetivo de crear artefactos
 de software, documentación y actividades para el fomento de
 la tecnología https://elixir-lang.org/[_Elixir_] en el país.
 
+++++
+<center>
+<img src="img/logo.png" style="width:300px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
+</center>
+++++
+
 toc::[]
 
 ## Estándares
@@ -42,25 +48,30 @@ Para esto deben cumplir con lo siguiente:
 
 - Seguir, en lo posible, la https://en.wikipedia.org/wiki/Unix_philosophy[filosofía Unix].
 
+- Seguir, de preferencia, la guía de estilo: https://nimblehq.co/compass/development/code-conventions/elixir/
 
-## Telegram
 
-Nuestro Telegram Oficial es https://t.me/elixircl[ElixirCL].
+## Comunidad
+
+- Discord: https://discord.gg/WwSXMcMdAt[Unirse a Discord de Elixir Chile].
+
+- Foro: https://github.com/ElixirCL/elixircl.github.io/discussions[Github Discussions].
+
+- Wiki: https://github.com/ElixirCL/elixircl/wiki[Github Wiki].
 
 ## Comunidades Amigas
 
 ### https://elixir-slackin.herokuapp.com/[Elixir Oficial]
 
-El canal oficial de _Elixir_.
+El chat oficial de _Elixir_. Quizás puedas visitar el canal https://elixir-lang.slack.com/archives/C0N8NB332[`#chile`].
 
 ### https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w[Elixir Japan]
 
-El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un buen canal para compartir
-el amor por _Elixir_.
+El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un buen sitio para compartir el amor por _Elixir_.
 
 ### https://devschile.cl/[Devs Chile]
 
-Comunidad de devs chilenos.
+Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
 
 ## Empresas
 
@@ -92,21 +103,40 @@ Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
 
 ### Libros
 
-- https://www.manning.com/books/elixir-in-action-second-edition
-- https://pragprog.com/titles/liveview/programming-phoenix-liveview/
+- https://www.manning.com/books/elixir-in-action-second-edition : Introducción al lenguaje. Altamente recomendado.
+
+- https://pragprog.com/titles/liveview/programming-phoenix-liveview/ : Introducción a Phoenix y Liveview. Para los sistemas webs.
+
+- https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/ : Libro más avanzado, pero recomendado para el diseño de sistemas con _Elixir_.
 
 ## Herramientas Recomendadas
 
 - https://www.phoenixframework.org/ : Para desarrollo de aplicaciones web.
+
 - https://surface-ui.org/ : Complemento de _Phoenix_ para Renderizar _HTML_ basado en Componentes (Similar a _React.js_).
+
 - https://thinkingelixir.com/petal-stack-in-elixir/. Stack recomendado _PETAL_.
+
 - https://www.nerves-project.org/ : Para desarrollo _IoT_.
+
 - https://github.com/elixir-desktop : Para aplicaciones de escritorio y mobile.
+
 - https://github.com/elixir-nx : Para desarrollo de Machine Learning.
+
 - https://www.grisp.org : Para plataformas de sistemas incrustados.
+
+- https://github.com/burrito-elixir/burrito : Distribución de aplicaciones.
 
 ## Hosting
 
 - https://www.gigalixir.com/
 - https://render.com/
+- https://fly.io/
 - _VPS_ (Digital Ocean, Linode, Vultr).
+
+## Artículos/Guías
+
+- https://damonvjanis.medium.com/optimizing-for-free-hosting-elixir-deployments-6bfc119a1f44
+- https://www.cogini.com/blog/deploying-your-phoenix-app-to-digital-ocean-for-beginners/
+- https://neiro.io/2018-04-28-elixir-code-quality-tools-and-checks.md.html
+
