@@ -11,9 +11,9 @@ de software, documentación y actividades para el fomento de
 la tecnología https://elixir-lang.org/[_Elixir_] en el país.
 
 ++++
-<center>
-<img src="img/logo.png" style="width:300px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
-</center>
+<p align="center">
+<img src="https://raw.githubusercontent.com/ElixirCL/elixircl.github.io/main/img/logo.png" style="width:300px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
+</p>
 ++++
 
 toc::[]
