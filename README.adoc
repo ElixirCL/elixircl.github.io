@@ -126,31 +126,37 @@ resolviendo los problemas podrás aprender más el lenguaje.
 
 ### Libros
 
-- https://www.manning.com/books/elixir-in-action-second-edition : Introducción al lenguaje. Altamente recomendado.
+- https://www.manning.com/books/elixir-in-action-second-edition: Introducción al lenguaje. Altamente recomendado.
 
-- https://pragprog.com/titles/liveview/programming-phoenix-liveview/ : Introducción a Phoenix y Liveview. Para los sistemas webs.
+- https://pragprog.com/titles/liveview/programming-phoenix-liveview/: Introducción a Phoenix y Liveview. Para los sistemas webs.
 
-- https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/ : Libro más avanzado, pero recomendado para el diseño de sistemas con _Elixir_.
+- https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/: Libro más avanzado, pero recomendado para el diseño de sistemas con _Elixir_.
+
+- https://dashbit.co/ebooks/the-little-ecto-cookbook: Libro gratuito sobre el uso de _Ecto_.
 
 ## Herramientas Recomendadas
 
-- https://www.phoenixframework.org/ : Para desarrollo de aplicaciones web.
+- https://www.phoenixframework.org/: Para desarrollo de aplicaciones web.
 
-- https://surface-ui.org/ : Complemento de _Phoenix_ para Renderizar _HTML_ basado en Componentes (Similar a _React.js_).
+- https://surface-ui.org/: Complemento de _Phoenix_ para Renderizar _HTML_ basado en Componentes (Similar a _React.js_).
 
 - https://www.ash-elixir.org/: DSL para la creación de APIS.
 
-- https://thinkingelixir.com/petal-stack-in-elixir/. Stack recomendado _PETAL_.
+- https://thinkingelixir.com/petal-stack-in-elixir/: Stack recomendado _PETAL_.
 
-- https://www.nerves-project.org/ : Para desarrollo _IoT_.
+- https://www.nerves-project.org/: Para desarrollo _IoT_.
 
-- https://github.com/elixir-desktop : Para aplicaciones de escritorio y mobile.
+- https://github.com/elixir-desktop: Para aplicaciones de escritorio y mobile.
 
-- https://github.com/elixir-nx : Para desarrollo de Machine Learning.
+- https://github.com/elixir-nx: Para desarrollo de Machine Learning.
 
-- https://www.grisp.org : Para plataformas de sistemas incrustados.
+- https://www.grisp.org: Para plataformas de sistemas incrustados.
 
-- https://github.com/burrito-elixir/burrito : Distribución de aplicaciones.
+- https://github.com/burrito-elixir/burrito: Distribución de aplicaciones.
+
+- https://www.membraneframework.org/: Para desarrollo de aplicaciones de Streaming multimedia.
+
+- https://glimesh.tv/: Para desarollo de live streaming.
 
 ## Hosting
 
@@ -164,4 +170,5 @@ resolviendo los problemas podrás aprender más el lenguaje.
 - https://damonvjanis.medium.com/optimizing-for-free-hosting-elixir-deployments-6bfc119a1f44
 - https://www.cogini.com/blog/deploying-your-phoenix-app-to-digital-ocean-for-beginners/
 - https://neiro.io/2018-04-28-elixir-code-quality-tools-and-checks.md.html
+- https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/
 
