@@ -158,6 +158,8 @@ resolviendo los problemas podrás aprender más el lenguaje.
 
 - https://glimesh.tv/: Para desarollo de live streaming.
 
+- https://github.com/alex-min/ex_platform: Boilerplate para Phoenix.
+
 ## Hosting
 
 - https://www.gigalixir.com/
