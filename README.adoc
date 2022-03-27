@@ -174,3 +174,6 @@ resolviendo los problemas podrás aprender más el lenguaje.
 - https://neiro.io/2018-04-28-elixir-code-quality-tools-and-checks.md.html
 - https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/
 
+## Ofertas Laborales
+
+- https://elixirjobs.net/
