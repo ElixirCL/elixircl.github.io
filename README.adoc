@@ -89,6 +89,15 @@ Para esto deben cumplir con lo siguiente:
 
 - Seguir, de preferencia, la guía de estilo: https://nimblehq.co/compass/development/code-conventions/elixir/[Compass].
 
+## Proyectos
+
+### https://github.com/ElixirCL/ejemplos[Ejemplos]
+
+Proyectos diversos. No necesariamente siguen los estándares de _Elixir Chile_, 
+pero sirven como demostración de una tecnología o idea.
+
+https://elixircl.github.io/ejemplos/
+
 ## Empresas
 
 Empresas que utilizan _Elixir_.
