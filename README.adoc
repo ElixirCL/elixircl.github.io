@@ -83,11 +83,11 @@ Para esto deben cumplir con lo siguiente:
 
 - Utilizar https://trunkbaseddevelopment.com/[Trunk Based Development] para las ramas. Siendo la rama principal llamada `main`.
 
-- Utilizar https://www.conventionalcommits.org/es/v1.0.0/[Conventional Commits] al momento de hacer squash and merge del _PR_.
+- Utilizar https://github.com/conventional-commits/conventionalcommits.org[Conventional Commits] al momento de hacer squash and merge del _PR_ https://www.conventionalcommits.org/es/v1.0.0/[(En español)].
 
 - Seguir, en lo posible, la https://en.wikipedia.org/wiki/Unix_philosophy[filosofía Unix].
 
-- Seguir, de preferencia, la guía de estilo: https://nimblehq.co/compass/development/code-conventions/elixir/
+- Seguir, de preferencia, la guía de estilo: https://nimblehq.co/compass/development/code-conventions/elixir/[Compass].
 
 ## Empresas
 
