@@ -127,6 +127,7 @@ Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
 - https://elixirschool.com/en
 - https://elixircasts.io/
 - https://alchemist.camp/episodes
+- https://fullstackphoenix.com/tutorials
 
 ### ¿Dónde aprender?
 
