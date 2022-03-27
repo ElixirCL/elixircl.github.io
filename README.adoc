@@ -169,6 +169,8 @@ resolviendo los problemas podrás aprender más el lenguaje.
 
 - https://github.com/alex-min/ex_platform: Boilerplate para Phoenix.
 
+- https://hexdocs.pm/rexbug/readme.html: Ayuda en el Debug de aplicaciones.
+
 ## Hosting
 
 - https://www.gigalixir.com/
