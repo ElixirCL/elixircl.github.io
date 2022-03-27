@@ -31,6 +31,9 @@ toc::[]
 
 - Wiki: https://github.com/ElixirCL/elixircl/wiki[Github Wiki].
 
+- Eventos: https://github.com/orgs/ElixirCL/projects/1[Próximos Eventos y Meetups].
+
+
 ## Comunidades Amigas
 
 ### https://elixir-slackin.herokuapp.com/[Elixir Oficial]
@@ -44,6 +47,11 @@ El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un
 ### https://devschile.cl/[Devs Chile]
 
 Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
+
+### https://www.meetup.com/es-ES/Programacion-Funcional-en-Santiago/[Programación Funcional en Santiago]
+
+Un Meetup para personas que le guste la programación funcional
+y vivan en las cercanías de Santiago de Chile.
 
 ## Estándares
 
