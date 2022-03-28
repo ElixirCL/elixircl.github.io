@@ -117,6 +117,7 @@ Si se busca asesoría o consultoría en este lenguaje.
 
 Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
 
+- https://shinkansen.finance
 - _(Se aceptan PRs)_
 
 ## Cursos Recomendados
