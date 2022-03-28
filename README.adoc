@@ -83,11 +83,17 @@ Para esto deben cumplir con lo siguiente:
 
 - Utilizar https://trunkbaseddevelopment.com/[Trunk Based Development] para las ramas. Siendo la rama principal llamada `main`.
 
-- Utilizar https://github.com/conventional-commits/conventionalcommits.org[Conventional Commits] al momento de hacer squash and merge del _PR_ https://www.conventionalcommits.org/es/v1.0.0/[(En español)].
+- Utilizar https://github.com/conventional-commits/conventionalcommits.org[Conventional Commits] al momento de hacer squash and merge del _PR_ https://www.conventionalcommits.org/es/v1.0.0/[(leer traducido)]. También leer la guía https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/.
 
 - Seguir, en lo posible, la https://en.wikipedia.org/wiki/Unix_philosophy[filosofía Unix].
 
 - Seguir, de preferencia, la guía de estilo: https://nimblehq.co/compass/development/code-conventions/elixir/[Compass].
+
+- Utilizar la menor cantidad de dependencias externas posibles.
+
+- Utilizar el lenguaje *inglés* para el código, commits y documentación de artefactos de software.
+
+- Utilizar el namespace *elixircl_<app>* para el nombre de paquetes en _hex_ y *ElixirCL<app>* como prefijo de los módulos. Ejemplo: *elixircl_rut*, *ElixirCLRut*.
 
 ## Proyectos
 
