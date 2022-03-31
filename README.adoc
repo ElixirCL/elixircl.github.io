@@ -126,6 +126,7 @@ Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
 
 - https://shinkansen.finance
 - https://timetask.me
+- _(se aceptan PRs)_
 
 ## Cursos Recomendados
 
