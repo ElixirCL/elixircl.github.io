@@ -1,0 +1,27 @@
+# Licencia 
+
+Escrito por https://github.com/ElixirCL/elixircl.github.io/graphs/contributors[colaboradores]. Para https://elixircl.github.io/[Elixir Chile].
+
+## Documento
+
+Esta obra está bajo una http://creativecommons.org/licenses/by-nc-sa/4.0/[Licencia Creative Commons Atribución-No-Comercial-Compartir-Igual 4.0 Internacional]
+
+http://creativecommons.org/licenses/by-nc-sa/4.0/[image:https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png[Licencia Creative Commons]]
+
+## Código Fuente
+
+A menos que se diga lo contrario, todo el código fuente está bajo a licencia
+https://www.mozilla.org/en-US/MPL/2.0/[MPL v2.0 (Mozilla Public License Version 2.0)].
+
+Es una licencia que es fácil de cumplir. Puedes mezclar la licencia _MPL v2.0_ con cualquier otra licencia, propietaria u de otra índole. Siempre y cuando se cumplan las siguientes condiciones:
+
+- Si no modificas los componentes del artefacto de software, solo deberás mostrar un enlace al código fuente del artefacto, de preferencia en un lugar claramente visible dentro del software, por ejemplo el README o sección de autores.
+
+- Si modificas los componentes de este artefacto, debes solamente proporcionar libremente tus cambios al artefacto (no al proyecto en su totalidad).
+
+### Más Info.
+
+- https://www.mozilla.org/en-US/MPL/2.0/[Mozila MPL 2.0]
+- https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences[Comparativa de licencias]
+- https://shakuro.com/blog/software-licenses-explained/[Explicación de licencias de Software]
+- https://choosealicense.com/licenses/mpl-2.0/[Elegir una licencia]

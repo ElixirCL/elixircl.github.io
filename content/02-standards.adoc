@@ -1,0 +1,72 @@
+
+## Estándares
+
+En 🧙 Elixir Chile 🇨🇱 buscamos aumentar la cantidad de devs que sepan
+utilizar _Elixir_. Con el objetivo de brindar módulos de apoyo
+y de ejemplo, se debe confeccionar artefactos de software de alta calidad,
+utilizando las herramientas y buenas prácticas que se esperan
+de un producto que pueda ser usado en ambientes de producción.
+
+Para esto deben cumplir con lo siguiente:
+
+- Correctamente documentados utilizando https://hexdocs.pm/elixir/master/writing-documentation.html[HexDocs] y https://asciidoctor.org/[Asciidoc] cuando _HexDocs_ no sea apropiado.
+
+- Funciones con especificación y tipos https://hexdocs.pm/elixir/master/typespecs.html[Typespecs].
+
+- Seguir buenas prácticas de https://hexdocs.pm/mix/master/Mix.Tasks.Test.html[TDD] y tener un buen puntaje de https://hexdocs.pm/mix/master/Mix.Tasks.Test.html#module-coverage[coverage].
+
+- Utilizar https://github.com/rrrene/credo/[Credo] para análisis de código estático.
+
+- Seguir las recomendaciones de https://www.dddcommunity.org/books/[DDD] cuando sea prudente.
+
+- Utilizar la licencia https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License v2.0] para el código y https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es[Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)] para los artefactos como documentación, imágenes u otros.
+
+- Soportar como mínimo, las últimas dos versiones del lenguaje.
+
+- Utilizar https://github.com/romversioning/romver[Romantic Versioning], partiendo desde la version _1.0.0_.
+
+- Utilizar un https://keepachangelog.com/es-ES/1.0.0/[Changelog].
+
+- Utilizar un archivo de https://editorconfig.org/[`.editorconfig`].
+
+- Utilizar https://trunkbaseddevelopment.com/[Trunk Based Development] para las ramas. Siendo la rama principal llamada `main`.
+
+- Utilizar https://github.com/conventional-commits/conventionalcommits.org[Conventional Commits] al momento de hacer squash and merge del _PR_ https://www.conventionalcommits.org/es/v1.0.0/[(leer traducido)]. También leer la guía https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/.
+
+- Seguir, en lo posible, la https://en.wikipedia.org/wiki/Unix_philosophy[filosofía Unix].
+
+- Seguir, de preferencia, la guía de estilo: https://nimblehq.co/compass/development/code-conventions/elixir/[Compass].
+
+- Utilizar la menor cantidad de dependencias externas posibles.
+
+- Utilizar el lenguaje *inglés* para el código, commits y documentación de artefactos de software.
+
+- Utilizar el namespace *elixircl_<app>* para el nombre de paquetes en _hex_ y *ElixirCL<app>* como prefijo de los módulos. Ejemplo: *elixircl_rut*, *ElixirCLRut*.
+
+### Licencias
+
+Las licencias utilizadas serán para documentos y para código fuente.
+
+#### Documentos
+
+A menos que se especifique lo contrario, Los documentos que no sean código estarán bajo la http://creativecommons.org/licenses/by-nc-sa/4.0/[Licencia Creative Commons Atribución-No-Comercial-Compartir-Igual 4.0 Internacional]
+
+http://creativecommons.org/licenses/by-nc-sa/4.0/[image:https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png[Licencia Creative Commons]]
+
+#### Código Fuente
+
+A menos que se especifique lo contrario, todo el código fuente está bajo a licencia
+https://www.mozilla.org/en-US/MPL/2.0/[MPL v2.0 (Mozilla Public License Version 2.0)].
+
+Es una licencia que es fácil de cumplir. Puedes mezclar la licencia _MPL v2.0_ con cualquier otra licencia, propietaria u de otra índole. Siempre y cuando se cumplan las siguientes condiciones:
+
+- Si no modificas los componentes del artefacto de software, solo deberás mostrar un enlace al código fuente del artefacto, de preferencia en un lugar claramente visible dentro del software, por ejemplo el README o sección de autores.
+
+- Si modificas los componentes de este artefacto, debes solamente proporcionar libremente tus cambios al artefacto (no al proyecto en su totalidad).
+
+#### Más Info.
+
+- https://www.mozilla.org/en-US/MPL/2.0/[Mozila MPL 2.0]
+- https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences[Comparativa de licencias]
+- https://shakuro.com/blog/software-licenses-explained/[Explicación de licencias de Software]
+- https://choosealicense.com/licenses/mpl-2.0/[Elegir una licencia]

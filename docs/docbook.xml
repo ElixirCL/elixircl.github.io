@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc maxdepth="3"?>
+<?asciidoc-numbered?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="es">
+<info>
+<title>🧙 Elixir Chile 🇨🇱</title>
+<date>2022-03-31</date>
+<copyright>
+<holder>CC-BY-NC-SA 4.0</holder>
+</copyright>
+<author>
+<personname>
+<firstname>Comunidad de Elixir en Chile https://github.com/elixircl</firstname>
+</personname>
+</author>
+<authorinitials>C</authorinitials>
+<cover role="front">
+<mediaobject>
+<imageobject>
+<imagedata fileref="img/1024.png"/>
+</imageobject>
+</mediaobject>
+</cover>
+</info>
+<chapter xml:id="_inicio">
+<title>Inicio</title>
+<simpara>Elixir Chile 🇨🇱 tiene el objetivo de crear artefactos
+de software, documentación y actividades para el fomento de
+la tecnología <link xl:href="https://elixir-lang.org/"><emphasis>Elixir</emphasis></link> en el país.</simpara>
+<p align="center">
+<img src="https://raw.githubusercontent.com/ElixirCL/elixircl.github.io/main/img/logo.png" style="width:200px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
+</p>
+<section xml:id="_comunidad">
+<title>Comunidad</title>
+<section xml:id="_github">
+<title><link xl:href="https://github.com/ElixirCL/">Github</link></title>
+<simpara>Nuestros Repositorios.</simpara>
+</section>
+<section xml:id="_discord">
+<title><link xl:href="https://discord.gg/WwSXMcMdAt">Discord</link></title>
+<simpara>Unirse a Discord de Elixir Chile.</simpara>
+</section>
+<section xml:id="_telegram">
+<title><link xl:href="https://t.me/elixircl">Telegram</link></title>
+<simpara>También disponible por si prefieres <emphasis>Telegram</emphasis>.</simpara>
+</section>
+<section xml:id="_github_discussions">
+<title><link xl:href="https://github.com/ElixirCL/elixircl/discussions">Github Discussions</link></title>
+<simpara>El foro principal, ideal para debatir ideas de forma más organizada que un chat, además de que es más fácil compartir código.</simpara>
+</section>
+<section xml:id="_github_wiki">
+<title><link xl:href="https://github.com/ElixirCL/elixircl/wiki">Github Wiki</link></title>
+<simpara>La <emphasis>Wiki</emphasis> sirve para compartir pequeños snippets de códigos, como también
+tutoriales y otros tips.</simpara>
+</section>
+<section xml:id="_eventos">
+<title><link xl:href="https://github.com/orgs/ElixirCL/projects/1">Eventos</link></title>
+<simpara>Los eventos, meetups y otros relacionados estarán en un tablero de proyectos
+de <emphasis>Github</emphasis> para su fácil organización.</simpara>
+</section>
+</section>
+<section xml:id="_comunidades_amigas">
+<title>Comunidades Amigas</title>
+<section xml:id="_elixir_oficial">
+<title><link xl:href="https://elixir-slackin.herokuapp.com/">Elixir Oficial</link></title>
+<simpara>El chat oficial de <emphasis>Elixir</emphasis>. Quizás puedas visitar el canal <link xl:href="https://elixir-lang.slack.com/archives/C0N8NB332"><literal>#chile</literal></link>.</simpara>
+</section>
+<section xml:id="_elixir_japan">
+<title><link xl:href="https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w">Elixir Japan</link></title>
+<simpara>El canal de <link xl:href="https://elixirjp.slack.com/archives/C01JMMZM0SH"><literal>#autoraceex</literal></link> es un buen sitio para compartir el amor por <emphasis>Elixir</emphasis>.</simpara>
+</section>
+<section xml:id="_devs_chile">
+<title><link xl:href="https://devschile.cl/">Devs Chile</link></title>
+<simpara>Comunidad de devs chilenos. No tiene canal de <literal>#elixir</literal> 💔.</simpara>
+</section>
+<section xml:id="_programación_funcional_en_santiago">
+<title><link xl:href="https://www.meetup.com/es-ES/Programacion-Funcional-en-Santiago/">Programación Funcional en Santiago</link></title>
+<simpara>Un Meetup para personas que le guste la programación funcional
+y vivan en las cercanías de Santiago de Chile.</simpara>
+</section>
+</section>
+</chapter>
+<chapter xml:id="_estándares">
+<title>Estándares</title>
+<simpara>En 🧙 Elixir Chile 🇨🇱 buscamos aumentar la cantidad de devs que sepan
+utilizar <emphasis>Elixir</emphasis>. Con el objetivo de brindar módulos de apoyo
+y de ejemplo, se debe confeccionar artefactos de software de alta calidad,
+utilizando las herramientas y buenas prácticas que se esperan
+de un producto que pueda ser usado en ambientes de producción.</simpara>
+<simpara>Para esto deben cumplir con lo siguiente:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Correctamente documentados utilizando <link xl:href="https://hexdocs.pm/elixir/master/writing-documentation.html">HexDocs</link> y <link xl:href="https://asciidoctor.org/">Asciidoc</link> cuando <emphasis>HexDocs</emphasis> no sea apropiado.</simpara>
+</listitem>
+<listitem>
+<simpara>Funciones con especificación y tipos <link xl:href="https://hexdocs.pm/elixir/master/typespecs.html">Typespecs</link>.</simpara>
+</listitem>
+<listitem>
+<simpara>Seguir buenas prácticas de <link xl:href="https://hexdocs.pm/mix/master/Mix.Tasks.Test.html">TDD</link> y tener un buen puntaje de <link xl:href="https://hexdocs.pm/mix/master/Mix.Tasks.Test.html#module-coverage">coverage</link>.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar <link xl:href="https://github.com/rrrene/credo/">Credo</link> para análisis de código estático.</simpara>
+</listitem>
+<listitem>
+<simpara>Seguir las recomendaciones de <link xl:href="https://www.dddcommunity.org/books/">DDD</link> cuando sea prudente.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar la licencia <link xl:href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License v2.0</link> para el código y <link xl:href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</link> para los artefactos como documentación, imágenes u otros.</simpara>
+</listitem>
+<listitem>
+<simpara>Soportar como mínimo, las últimas dos versiones del lenguaje.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar <link xl:href="https://github.com/romversioning/romver">Romantic Versioning</link>, partiendo desde la version <emphasis>1.0.0</emphasis>.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar un <link xl:href="https://keepachangelog.com/es-ES/1.0.0/">Changelog</link>.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar un archivo de <link xl:href="https://editorconfig.org/"><literal>.editorconfig</literal></link>.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar <link xl:href="https://trunkbaseddevelopment.com/">Trunk Based Development</link> para las ramas. Siendo la rama principal llamada <literal>main</literal>.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar <link xl:href="https://github.com/conventional-commits/conventionalcommits.org">Conventional Commits</link> al momento de hacer squash and merge del <emphasis>PR</emphasis> <link xl:href="https://www.conventionalcommits.org/es/v1.0.0/">(leer traducido)</link>. También leer la guía <link xl:href="https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/">https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/</link>.</simpara>
+</listitem>
+<listitem>
+<simpara>Seguir, en lo posible, la <link xl:href="https://en.wikipedia.org/wiki/Unix_philosophy">filosofía Unix</link>.</simpara>
+</listitem>
+<listitem>
+<simpara>Seguir, de preferencia, la guía de estilo: <link xl:href="https://nimblehq.co/compass/development/code-conventions/elixir/">Compass</link>.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar la menor cantidad de dependencias externas posibles.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar el lenguaje <emphasis role="strong">inglés</emphasis> para el código, commits y documentación de artefactos de software.</simpara>
+</listitem>
+<listitem>
+<simpara>Utilizar el namespace <emphasis role="strong">elixircl_&lt;app&gt;</emphasis> para el nombre de paquetes en <emphasis>hex</emphasis> y <emphasis role="strong">ElixirCL&lt;app&gt;</emphasis> como prefijo de los módulos. Ejemplo: <emphasis role="strong">elixircl_rut</emphasis>, <emphasis role="strong">ElixirCLRut</emphasis>.</simpara>
+</listitem>
+</itemizedlist>
+<section xml:id="_licencias">
+<title>Licencias</title>
+<simpara>Las licencias utilizadas serán para documentos y para código fuente.</simpara>
+<section xml:id="_documentos">
+<title>Documentos</title>
+<simpara>A menos que se especifique lo contrario, Los documentos que no sean código estarán bajo la <link xl:href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-No-Comercial-Compartir-Igual 4.0 Internacional</link></simpara>
+<simpara><link xl:href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><inlinemediaobject>
+<imageobject>
+<imagedata fileref="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
+</imageobject>
+<textobject><phrase>Licencia Creative Commons</phrase></textobject>
+</inlinemediaobject></link></simpara>
+</section>
+<section xml:id="_código_fuente">
+<title>Código Fuente</title>
+<simpara>A menos que se especifique lo contrario, todo el código fuente está bajo a licencia
+<link xl:href="https://www.mozilla.org/en-US/MPL/2.0/">MPL v2.0 (Mozilla Public License Version 2.0)</link>.</simpara>
+<simpara>Es una licencia que es fácil de cumplir. Puedes mezclar la licencia <emphasis>MPL v2.0</emphasis> con cualquier otra licencia, propietaria u de otra índole. Siempre y cuando se cumplan las siguientes condiciones:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Si no modificas los componentes del artefacto de software, solo deberás mostrar un enlace al código fuente del artefacto, de preferencia en un lugar claramente visible dentro del software, por ejemplo el README o sección de autores.</simpara>
+</listitem>
+<listitem>
+<simpara>Si modificas los componentes de este artefacto, debes solamente proporcionar libremente tus cambios al artefacto (no al proyecto en su totalidad).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_más_info">
+<title>Más Info.</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://www.mozilla.org/en-US/MPL/2.0/">Mozila MPL 2.0</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences">Comparativa de licencias</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://shakuro.com/blog/software-licenses-explained/">Explicación de licencias de Software</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://choosealicense.com/licenses/mpl-2.0/">Elegir una licencia</link></simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+</chapter>
+<chapter xml:id="_proyectos">
+<title>Proyectos</title>
+
+</chapter>
+<chapter xml:id="_ejemplos">
+<title>Ejemplos</title>
+<simpara>Proyectos diversos. No necesariamente siguen los estándares de <emphasis>Elixir Chile</emphasis>,
+pero sirven como demostración de una tecnología o idea.</simpara>
+<section xml:id="_birds">
+<title><link xl:href="https://github.com/NinjasCL/birds/">Birds</link></title>
+<simpara>Un ejemplo de uso de <emphasis>HTTPoison</emphasis> para la creación de una página simple.</simpara>
+</section>
+<section xml:id="_cars">
+<title><link xl:href="https://github.com/NinjasCL/cars">Cars</link></title>
+<simpara>Un ejemplo de servidor <emphasis>GraphQL</emphasis> y un cliente con <emphasis>Phoenix</emphasis>.</simpara>
+</section>
+<section xml:id="_huemulixir">
+<title><link xl:href="https://github.com/NinjasCL/huemulixir">Huemulixir</link></title>
+<simpara>Un ejemplo de aplicación creada con <emphasis>Elixir Desktop</emphasis>.</simpara>
+</section>
+<section xml:id="_telegraph">
+<title><link xl:href="https://github.com/NinjasCL/telegraph">Telegraph</link></title>
+<simpara>Un cliente para <link xl:href="https://telegra.ph">https://telegra.ph</link> que transforma el contenido
+en <emphasis>Markdown</emphasis> o <emphasis>HTML</emphasis>. Ejemplo de creación de un script de consola
+con <emphasis>Elixir</emphasis>.</simpara>
+</section>
+</chapter>
+<chapter xml:id="_empresas_internacionales">
+<title>Empresas Internacionales</title>
+<simpara>Empresas que utilizan <emphasis>Elixir</emphasis> en el mundo.</simpara>
+<section xml:id="_consultoras_internacionales">
+<title>Consultoras Internacionales</title>
+<simpara>Si se busca asesoría o consultoría en este lenguaje.</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://dashbit.co">https://dashbit.co</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://serokell.io/">https://serokell.io/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.wyeworks.com/">https://www.wyeworks.com/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://newaperio.com/">https://newaperio.com/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://revelry.co/">https://revelry.co/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://erlef.org/">https://erlef.org/</link></simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter xml:id="_empresas_nacionales">
+<title>Empresas Nacionales</title>
+<simpara>Empresas que utilizan <emphasis>Elixir</emphasis> en Chile. <emphasis>(Se aceptan PRs)</emphasis>.</simpara>
+<section xml:id="_consultoras_nacionales">
+<title>Consultoras Nacionales</title>
+<simpara>Si se busca asesoría o consultoría en este lenguaje.</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://modelab.cl/">https://modelab.cl/</link></simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_startups">
+<title>Startups</title>
+<simpara>Empresas que utilizan <emphasis>Elixir</emphasis> dentro de sus sistemas
+y proyectos.</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://shinkansen.finance">https://shinkansen.finance</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://timetask.me">https://timetask.me</link></simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter xml:id="_aprendizaje">
+<title>Aprendizaje</title>
+<simpara>Hay un montón de recursos para aprender <emphasis>Elixir</emphasis>. Tanto de pago
+como gratuitos, aquí una fina selección.</simpara>
+<section xml:id="_dónde_aprender">
+<title>¿Dónde aprender?</title>
+<simpara>Te recomendamos utilizar <link xl:href="https://exercism.org/tracks/elixir/">Exercism</link>,
+resolviendo los problemas podrás aprender más el lenguaje.</simpara>
+</section>
+<section xml:id="_cursos_recomendados">
+<title>Cursos Recomendados</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://grox.io/">https://grox.io/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://codestool.coding-gnome.com/courses/elixir-for-programmers-2">https://codestool.coding-gnome.com/courses/elixir-for-programmers-2</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://pragmaticstudio.com/">https://pragmaticstudio.com/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://elixirschool.com/en">https://elixirschool.com/en</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://elixircasts.io/">https://elixircasts.io/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://alchemist.camp/episodes">https://alchemist.camp/episodes</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://fullstackphoenix.com/tutorials">https://fullstackphoenix.com/tutorials</link></simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_libros">
+<title>Libros</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://www.manning.com/books/elixir-in-action-second-edition">https://www.manning.com/books/elixir-in-action-second-edition</link>: Introducción al lenguaje. Altamente recomendado.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://pragprog.com/titles/liveview/programming-phoenix-liveview/">https://pragprog.com/titles/liveview/programming-phoenix-liveview/</link>: Introducción a Phoenix y Liveview. Para los sistemas webs.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/">https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/</link>: Libro más avanzado, pero recomendado para el diseño de sistemas con <emphasis>Elixir</emphasis>.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://dashbit.co/ebooks/the-little-ecto-cookbook">https://dashbit.co/ebooks/the-little-ecto-cookbook</link>: Libro gratuito sobre el uso de <emphasis>Ecto</emphasis>.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/">https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/</link>: Sobre procesamiento de datos en streaming. Explica muy bien los mecanismos de supervisión.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_artículosguías">
+<title>Artículos/Guías</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://damonvjanis.medium.com/optimizing-for-free-hosting-elixir-deployments-6bfc119a1f44">https://damonvjanis.medium.com/optimizing-for-free-hosting-elixir-deployments-6bfc119a1f44</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.cogini.com/blog/deploying-your-phoenix-app-to-digital-ocean-for-beginners/">https://www.cogini.com/blog/deploying-your-phoenix-app-to-digital-ocean-for-beginners/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://neiro.io/2018-04-28-elixir-code-quality-tools-and-checks.md.html">https://neiro.io/2018-04-28-elixir-code-quality-tools-and-checks.md.html</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/">https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/lucasvegi/Elixir-Code-Smells">https://github.com/lucasvegi/Elixir-Code-Smells</link></simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter xml:id="_herramientas_recomendadas">
+<title>Herramientas Recomendadas</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://www.phoenixframework.org/">https://www.phoenixframework.org/</link>: Para desarrollo de aplicaciones web.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://surface-ui.org/">https://surface-ui.org/</link>: Complemento de <emphasis>Phoenix</emphasis> para Renderizar <emphasis>HTML</emphasis> basado en Componentes (Similar a <emphasis>React.js</emphasis>).</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.ash-elixir.org/">https://www.ash-elixir.org/</link>: DSL para la creación de APIS.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://thinkingelixir.com/petal-stack-in-elixir/">https://thinkingelixir.com/petal-stack-in-elixir/</link>: Stack recomendado <emphasis>PETAL</emphasis>.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.nerves-project.org/">https://www.nerves-project.org/</link>: Para desarrollo <emphasis>IoT</emphasis>.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/elixir-desktop">https://github.com/elixir-desktop</link>: Para aplicaciones de escritorio y mobile.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/elixir-nx">https://github.com/elixir-nx</link>: Para desarrollo de Machine Learning.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.grisp.org">https://www.grisp.org</link>: Para plataformas de sistemas incrustados.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/burrito-elixir/burrito">https://github.com/burrito-elixir/burrito</link>: Distribución de aplicaciones.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.membraneframework.org/">https://www.membraneframework.org/</link>: Para desarrollo de aplicaciones de Streaming multimedia.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://glimesh.tv/">https://glimesh.tv/</link>: Para desarollo de live streaming.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/alex-min/ex_platform">https://github.com/alex-min/ex_platform</link>: Boilerplate para Phoenix.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://hexdocs.pm/rexbug/readme.html">https://hexdocs.pm/rexbug/readme.html</link>: Ayuda en el Debug de aplicaciones.</simpara>
+</listitem>
+</itemizedlist>
+<section xml:id="_hosting">
+<title>Hosting</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://www.gigalixir.com/">https://www.gigalixir.com/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://render.com/">https://render.com/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://fly.io/">https://fly.io/</link></simpara>
+</listitem>
+<listitem>
+<simpara><emphasis>VPS</emphasis> (Digital Ocean, Linode, Vultr).</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</chapter>
+<chapter xml:id="_ofertas_laborales">
+<title>Ofertas Laborales</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://elixirjobs.net/">https://elixirjobs.net/</link></simpara>
+</listitem>
+</itemizedlist>
+</chapter>
+</book>

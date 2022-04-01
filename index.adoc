@@ -1,0 +1,37 @@
+= 🧙 Elixir Chile 🇨🇱
+Comunidad de Elixir en Chile https://github.com/elixircl
+:doctype: book
+:encoding: utf-8
+:numbered:
+:source-linenums-option:
+:username: elixircl
+:source: https://github.com/ElixirCL/elixircl.github.io
+:producer: elixircl.github.io
+:copyright: CC-BY-NC-SA 4.0
+:lang: es
+:description: La comunidad de Elixir en Chile.
+:keywords: elixir, programación, lenguaje, referencia
+:imagesdir: images
+:front-cover-image: img/1024.png
+:epub-chapter-level: 2
+:toc: left
+:toclevels: 3
+:toc-title: Tabla de Contenidos
+:source-highlighter: highlight.js
+:highlightjs-languages: elixir, javascript, bash, txt, html
+:stylesheet: style.css
+
+////
+Organize your book chapter by chapter
+////
+
+include::content/01-home.adoc[Introducción]
+include::content/02-standards.adoc[Estándares]
+include::content/03-projects.adoc[Proyectos]
+include::content/04-examples.adoc[Ejemplos]
+include::content/05-companies-international.adoc[Empresas Internacionales]
+include::content/06-companies-chile.adoc[Empresas Nacionales]
+include::content/07-learning.adoc[¿Dónde aprender?]
+include::content/08-tools.adoc[Herramientas]
+include::content/09-jobs.adoc[Trabajos]
+

@@ -1,0 +1,18 @@
+
+## Empresas Nacionales
+
+Empresas que utilizan _Elixir_ en Chile. _(Se aceptan PRs)_.
+
+### Consultoras Nacionales
+
+Si se busca asesoría o consultoría en este lenguaje.
+
+- https://modelab.cl/
+
+### Startups
+
+Empresas que utilizan _Elixir_ dentro de sus sistemas
+y proyectos.
+
+- https://shinkansen.finance
+- https://timetask.me

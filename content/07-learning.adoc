@@ -1,0 +1,40 @@
+
+## Aprendizaje
+
+Hay un montón de recursos para aprender _Elixir_. Tanto de pago
+como gratuitos, aquí una fina selección.
+
+### ¿Dónde aprender?
+
+Te recomendamos utilizar https://exercism.org/tracks/elixir/[Exercism], 
+resolviendo los problemas podrás aprender más el lenguaje.
+
+### Cursos Recomendados
+
+- https://grox.io/
+- https://codestool.coding-gnome.com/courses/elixir-for-programmers-2
+- https://pragmaticstudio.com/
+- https://elixirschool.com/en
+- https://elixircasts.io/
+- https://alchemist.camp/episodes
+- https://fullstackphoenix.com/tutorials
+
+### Libros
+
+- https://www.manning.com/books/elixir-in-action-second-edition: Introducción al lenguaje. Altamente recomendado.
+
+- https://pragprog.com/titles/liveview/programming-phoenix-liveview/: Introducción a Phoenix y Liveview. Para los sistemas webs.
+
+- https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/: Libro más avanzado, pero recomendado para el diseño de sistemas con _Elixir_.
+
+- https://dashbit.co/ebooks/the-little-ecto-cookbook: Libro gratuito sobre el uso de _Ecto_.
+
+- https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/: Sobre procesamiento de datos en streaming. Explica muy bien los mecanismos de supervisión. 
+
+### Artículos/Guías
+
+- https://damonvjanis.medium.com/optimizing-for-free-hosting-elixir-deployments-6bfc119a1f44
+- https://www.cogini.com/blog/deploying-your-phoenix-app-to-digital-ocean-for-beginners/
+- https://neiro.io/2018-04-28-elixir-code-quality-tools-and-checks.md.html
+- https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/
+- https://github.com/lucasvegi/Elixir-Code-Smells

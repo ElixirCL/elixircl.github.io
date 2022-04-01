@@ -1,0 +1,57 @@
+
+## Inicio
+
+Elixir Chile 🇨🇱 tiene el objetivo de crear artefactos
+de software, documentación y actividades para el fomento de
+la tecnología https://elixir-lang.org/[_Elixir_] en el país.
+
+++++
+<p align="center">
+<img src="https://raw.githubusercontent.com/ElixirCL/elixircl.github.io/main/img/logo.png" style="width:200px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
+</p>
+++++
+
+### Comunidad
+
+#### https://github.com/ElixirCL/[Github]
+Nuestros Repositorios.
+
+#### https://discord.gg/WwSXMcMdAt[Discord]
+Unirse a Discord de Elixir Chile.
+
+#### https://t.me/elixircl[Telegram]
+También disponible por si prefieres _Telegram_.
+
+#### https://github.com/ElixirCL/elixircl/discussions[Github Discussions]
+El foro principal, ideal para debatir ideas de forma más organizada que un chat, además de que es más fácil compartir código.
+
+#### https://github.com/ElixirCL/elixircl/wiki[Github Wiki]
+
+La _Wiki_ sirve para compartir pequeños snippets de códigos, como también
+tutoriales y otros tips.
+
+#### https://github.com/orgs/ElixirCL/projects/1[Eventos]
+
+Los eventos, meetups y otros relacionados estarán en un tablero de proyectos
+de _Github_ para su fácil organización.
+
+
+### Comunidades Amigas
+
+#### https://elixir-slackin.herokuapp.com/[Elixir Oficial]
+
+El chat oficial de _Elixir_. Quizás puedas visitar el canal https://elixir-lang.slack.com/archives/C0N8NB332[`#chile`].
+
+#### https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w[Elixir Japan]
+
+El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un buen sitio para compartir el amor por _Elixir_.
+
+#### https://devschile.cl/[Devs Chile]
+
+Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
+
+#### https://www.meetup.com/es-ES/Programacion-Funcional-en-Santiago/[Programación Funcional en Santiago]
+
+Un Meetup para personas que le guste la programación funcional
+y vivan en las cercanías de Santiago de Chile.
+

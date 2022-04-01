@@ -2,9 +2,8 @@
 :toc-title: Tabla de Contenidos
 :toclevels: 3
 :ext-relative:
-:stylesheet: style.css
 
-# Elixir Chile 🇨🇱
+# https://github.com/elixircl[Elixir Chile 🇨🇱]
 
 Elixir Chile 🇨🇱 tiene el objetivo de crear artefactos
 de software, documentación y actividades para el fomento de
@@ -16,188 +15,16 @@ la tecnología https://elixir-lang.org/[_Elixir_] en el país.
 </p>
 ++++
 
-toc::[]
 
+## https://elixircl.github.io/[Leer Online]
 
-## Comunidad
+Se utiliza el Software https://docs.asciidoctor.org/[Asciidoc]
+para la elaboración de éste documento.
 
-- Github: https://github.com/ElixirCL/[Nuestros Repositorios].
+Para construir el _html_:
 
-- Discord: https://discord.gg/WwSXMcMdAt[Unirse a Discord de Elixir Chile].
+```sh
+$ make
+```
 
-- Telegram: https://t.me/elixircl[Si prefieres Telegram].
-
-- Foro: https://github.com/ElixirCL/elixircl/discussions[Github Discussions].
-
-- Wiki: https://github.com/ElixirCL/elixircl/wiki[Github Wiki].
-
-- Eventos: https://github.com/orgs/ElixirCL/projects/1[Próximos Eventos y Meetups].
-
-
-## Comunidades Amigas
-
-### https://elixir-slackin.herokuapp.com/[Elixir Oficial]
-
-El chat oficial de _Elixir_. Quizás puedas visitar el canal https://elixir-lang.slack.com/archives/C0N8NB332[`#chile`].
-
-### https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w[Elixir Japan]
-
-El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un buen sitio para compartir el amor por _Elixir_.
-
-### https://devschile.cl/[Devs Chile]
-
-Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
-
-### https://www.meetup.com/es-ES/Programacion-Funcional-en-Santiago/[Programación Funcional en Santiago]
-
-Un Meetup para personas que le guste la programación funcional
-y vivan en las cercanías de Santiago de Chile.
-
-## Estándares
-
-Los artefactos de software deben ser de alta calidad,
-utilizando las herramientas y buenas prácticas que se esperan
-de un producto que pueda ser usado en ambientes de producción.
-
-Para esto deben cumplir con lo siguiente:
-
-- Correctamente documentados utilizando https://hexdocs.pm/elixir/master/writing-documentation.html[HexDocs] y https://asciidoctor.org/[Asciidoc] cuando _HexDocs_ no sea apropiado.
-
-- Funciones con especificación y tipos https://hexdocs.pm/elixir/master/typespecs.html[Typespecs].
-
-- Seguir buenas prácticas de https://hexdocs.pm/mix/master/Mix.Tasks.Test.html[TDD] y tener un buen puntaje de https://hexdocs.pm/mix/master/Mix.Tasks.Test.html#module-coverage[coverage].
-
-- Utilizar https://github.com/rrrene/credo/[Credo] para análisis de código estático.
-
-- Seguir las recomendaciones de https://www.dddcommunity.org/books/[DDD] cuando sea prudente.
-
-- Utilizar la licencia https://www.mozilla.org/en-US/MPL/2.0/[Mozilla Public License v2.0] para el código y https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es[Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)] para los artefactos como documentación, imágenes u otros.
-
-- Soportar como mínimo, las últimas dos versiones del lenguaje.
-
-- Utilizar https://github.com/romversioning/romver[Romantic Versioning], partiendo desde la version _1.0.0_.
-
-- Utilizar un https://keepachangelog.com/es-ES/1.0.0/[Changelog].
-
-- Utilizar un archivo de https://editorconfig.org/[`.editorconfig`].
-
-- Utilizar https://trunkbaseddevelopment.com/[Trunk Based Development] para las ramas. Siendo la rama principal llamada `main`.
-
-- Utilizar https://github.com/conventional-commits/conventionalcommits.org[Conventional Commits] al momento de hacer squash and merge del _PR_ https://www.conventionalcommits.org/es/v1.0.0/[(leer traducido)]. También leer la guía https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/.
-
-- Seguir, en lo posible, la https://en.wikipedia.org/wiki/Unix_philosophy[filosofía Unix].
-
-- Seguir, de preferencia, la guía de estilo: https://nimblehq.co/compass/development/code-conventions/elixir/[Compass].
-
-- Utilizar la menor cantidad de dependencias externas posibles.
-
-- Utilizar el lenguaje *inglés* para el código, commits y documentación de artefactos de software.
-
-- Utilizar el namespace *elixircl_<app>* para el nombre de paquetes en _hex_ y *ElixirCL<app>* como prefijo de los módulos. Ejemplo: *elixircl_rut*, *ElixirCLRut*.
-
-## Proyectos
-
-### https://github.com/ElixirCL/ejemplos[Ejemplos]
-
-Proyectos diversos. No necesariamente siguen los estándares de _Elixir Chile_, 
-pero sirven como demostración de una tecnología o idea.
-
-https://elixircl.github.io/ejemplos/
-
-## Empresas
-
-Empresas que utilizan _Elixir_.
-
-### Consultoras Internacionales
-
-Si se busca asesoría o consultoría en este lenguaje.
-
-- https://dashbit.co
-- https://serokell.io/
-- https://www.wyeworks.com/
-- https://newaperio.com/
-- https://revelry.co/
-- https://erlef.org/
-- https://modelab.cl/ (Chile)
-
-### Empresas Chilenas
-
-Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
-
-- https://shinkansen.finance
-- https://timetask.me
-- _(se aceptan PRs)_
-
-## Cursos Recomendados
-
-- https://grox.io/
-- https://codestool.coding-gnome.com/courses/elixir-for-programmers-2
-- https://pragmaticstudio.com/
-- https://elixirschool.com/en
-- https://elixircasts.io/
-- https://alchemist.camp/episodes
-- https://fullstackphoenix.com/tutorials
-
-### ¿Dónde aprender?
-
-Te recomendamos utilizar https://exercism.org/tracks/elixir/[Exercism], 
-resolviendo los problemas podrás aprender más el lenguaje.
-
-### Libros
-
-- https://www.manning.com/books/elixir-in-action-second-edition: Introducción al lenguaje. Altamente recomendado.
-
-- https://pragprog.com/titles/liveview/programming-phoenix-liveview/: Introducción a Phoenix y Liveview. Para los sistemas webs.
-
-- https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/: Libro más avanzado, pero recomendado para el diseño de sistemas con _Elixir_.
-
-- https://dashbit.co/ebooks/the-little-ecto-cookbook: Libro gratuito sobre el uso de _Ecto_.
-
-- https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/: Sobre procesamiento de datos en streaming. Explica muy bien los mecanismos de supervisión. 
-
-## Herramientas Recomendadas
-
-- https://www.phoenixframework.org/: Para desarrollo de aplicaciones web.
-
-- https://surface-ui.org/: Complemento de _Phoenix_ para Renderizar _HTML_ basado en Componentes (Similar a _React.js_).
-
-- https://www.ash-elixir.org/: DSL para la creación de APIS.
-
-- https://thinkingelixir.com/petal-stack-in-elixir/: Stack recomendado _PETAL_.
-
-- https://www.nerves-project.org/: Para desarrollo _IoT_.
-
-- https://github.com/elixir-desktop: Para aplicaciones de escritorio y mobile.
-
-- https://github.com/elixir-nx: Para desarrollo de Machine Learning.
-
-- https://www.grisp.org: Para plataformas de sistemas incrustados.
-
-- https://github.com/burrito-elixir/burrito: Distribución de aplicaciones.
-
-- https://www.membraneframework.org/: Para desarrollo de aplicaciones de Streaming multimedia.
-
-- https://glimesh.tv/: Para desarollo de live streaming.
-
-- https://github.com/alex-min/ex_platform: Boilerplate para Phoenix.
-
-- https://hexdocs.pm/rexbug/readme.html: Ayuda en el Debug de aplicaciones.
-
-## Hosting
-
-- https://www.gigalixir.com/
-- https://render.com/
-- https://fly.io/
-- _VPS_ (Digital Ocean, Linode, Vultr).
-
-## Artículos/Guías
-
-- https://damonvjanis.medium.com/optimizing-for-free-hosting-elixir-deployments-6bfc119a1f44
-- https://www.cogini.com/blog/deploying-your-phoenix-app-to-digital-ocean-for-beginners/
-- https://neiro.io/2018-04-28-elixir-code-quality-tools-and-checks.md.html
-- https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/
-- https://github.com/lucasvegi/Elixir-Code-Smells
-
-## Ofertas Laborales
-
-- https://elixirjobs.net/
+Todos los archivos están dentro del directorio `content/`.

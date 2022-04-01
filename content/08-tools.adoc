@@ -1,0 +1,35 @@
+
+## Herramientas Recomendadas
+
+- https://www.phoenixframework.org/: Para desarrollo de aplicaciones web.
+
+- https://surface-ui.org/: Complemento de _Phoenix_ para Renderizar _HTML_ basado en Componentes (Similar a _React.js_).
+
+- https://www.ash-elixir.org/: DSL para la creación de APIS.
+
+- https://thinkingelixir.com/petal-stack-in-elixir/: Stack recomendado _PETAL_.
+
+- https://www.nerves-project.org/: Para desarrollo _IoT_.
+
+- https://github.com/elixir-desktop: Para aplicaciones de escritorio y mobile.
+
+- https://github.com/elixir-nx: Para desarrollo de Machine Learning.
+
+- https://www.grisp.org: Para plataformas de sistemas incrustados.
+
+- https://github.com/burrito-elixir/burrito: Distribución de aplicaciones.
+
+- https://www.membraneframework.org/: Para desarrollo de aplicaciones de Streaming multimedia.
+
+- https://glimesh.tv/: Para desarollo de live streaming.
+
+- https://github.com/alex-min/ex_platform: Boilerplate para Phoenix.
+
+- https://hexdocs.pm/rexbug/readme.html: Ayuda en el Debug de aplicaciones.
+
+### Hosting
+
+- https://www.gigalixir.com/
+- https://render.com/
+- https://fly.io/
+- _VPS_ (Digital Ocean, Linode, Vultr).

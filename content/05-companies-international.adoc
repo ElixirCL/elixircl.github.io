@@ -1,0 +1,15 @@
+
+## Empresas Internacionales
+
+Empresas que utilizan _Elixir_ en el mundo.
+
+### Consultoras Internacionales
+
+Si se busca asesoría o consultoría en este lenguaje.
+
+- https://dashbit.co
+- https://serokell.io/
+- https://www.wyeworks.com/
+- https://newaperio.com/
+- https://revelry.co/
+- https://erlef.org/
