@@ -118,13 +118,15 @@ Si se busca asesoría o consultoría en este lenguaje.
 - https://newaperio.com/
 - https://revelry.co/
 - https://erlef.org/
+- https://modelab.cl/ (Chile)
 
 ### Empresas Chilenas
 
 Empresas que utilizan _Elixir_ dentro de sus sistemas o proyectos.
 
 - https://shinkansen.finance
-- _(Se aceptan PRs)_
+- https://timetask.me
+- _(se aceptan PRs)_
 
 ## Cursos Recomendados
 
@@ -150,6 +152,8 @@ resolviendo los problemas podrás aprender más el lenguaje.
 - https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/: Libro más avanzado, pero recomendado para el diseño de sistemas con _Elixir_.
 
 - https://dashbit.co/ebooks/the-little-ecto-cookbook: Libro gratuito sobre el uso de _Ecto_.
+
+- https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/: Sobre procesamiento de datos en streaming. Explica muy bien los mecanismos de supervisión. 
 
 ## Herramientas Recomendadas
 
@@ -192,6 +196,7 @@ resolviendo los problemas podrás aprender más el lenguaje.
 - https://www.cogini.com/blog/deploying-your-phoenix-app-to-digital-ocean-for-beginners/
 - https://neiro.io/2018-04-28-elixir-code-quality-tools-and-checks.md.html
 - https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/
+- https://github.com/lucasvegi/Elixir-Code-Smells
 
 ## Ofertas Laborales
 
