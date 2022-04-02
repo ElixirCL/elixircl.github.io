@@ -4,7 +4,7 @@
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="es">
 <info>
 <title>🧙 Elixir Chile 🇨🇱</title>
-<date>2022-03-31</date>
+<date>2022-04-02</date>
 <copyright>
 <holder>CC-BY-NC-SA 4.0</holder>
 </copyright>
@@ -17,7 +17,7 @@
 <cover role="front">
 <mediaobject>
 <imageobject>
-<imagedata fileref="img/1024.png"/>
+<imagedata fileref="assets/1024.png"/>
 </imageobject>
 </mediaobject>
 </cover>
@@ -28,7 +28,7 @@
 de software, documentación y actividades para el fomento de
 la tecnología <link xl:href="https://elixir-lang.org/"><emphasis>Elixir</emphasis></link> en el país.</simpara>
 <p align="center">
-<img src="https://raw.githubusercontent.com/ElixirCL/elixircl.github.io/main/img/logo.png" style="width:200px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
+<img src="https://raw.githubusercontent.com/ElixirCL/elixircl.github.io/main/assets/logo.png" style="width:200px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
 </p>
 <section xml:id="_comunidad">
 <title>Comunidad</title>

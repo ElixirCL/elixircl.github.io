@@ -12,7 +12,7 @@ Comunidad de Elixir en Chile https://github.com/elixircl
 :description: La comunidad de Elixir en Chile.
 :keywords: elixir, programación, lenguaje, referencia
 :imagesdir: images
-:front-cover-image: img/1024.png
+:front-cover-image: assets/1024.png
 :epub-chapter-level: 2
 :toc: left
 :toclevels: 3
