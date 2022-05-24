@@ -11,7 +11,7 @@ la tecnología https://elixir-lang.org/[_Elixir_] en el país.
 
 ++++
 <p align="center">
-<img src="https://raw.githubusercontent.com/ElixirCL/elixircl.github.io/main/img/logo.png" style="width:200px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
+<img src="https://raw.githubusercontent.com/ElixirCL/elixircl.github.io/main/assets/logo.png" style="width:200px;height:auto;margin-bottom:5%;" alt="logo" title="Elixir Chile. Logotipo creado por Efraín Zambrano.">
 </p>
 ++++
 
