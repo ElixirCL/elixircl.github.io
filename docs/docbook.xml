@@ -4,7 +4,7 @@
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="es">
 <info>
 <title>🧙 Elixir Chile 🇨🇱</title>
-<date>2022-04-02</date>
+<date>2023-06-10</date>
 <copyright>
 <holder>CC-BY-NC-SA 4.0</holder>
 </copyright>
@@ -40,14 +40,6 @@ la tecnología <link xl:href="https://elixir-lang.org/"><emphasis>Elixir</emphas
 <title><link xl:href="https://discord.gg/WwSXMcMdAt">Discord</link></title>
 <simpara>Unirse a Discord de Elixir Chile.</simpara>
 </section>
-<section xml:id="_telegram">
-<title><link xl:href="https://t.me/elixircl">Telegram</link></title>
-<simpara>También disponible por si prefieres <emphasis>Telegram</emphasis>.</simpara>
-</section>
-<section xml:id="_github_discussions">
-<title><link xl:href="https://github.com/ElixirCL/elixircl/discussions">Github Discussions</link></title>
-<simpara>El foro principal, ideal para debatir ideas de forma más organizada que un chat, además de que es más fácil compartir código.</simpara>
-</section>
 <section xml:id="_github_wiki">
 <title><link xl:href="https://github.com/ElixirCL/elixircl/wiki">Github Wiki</link></title>
 <simpara>La <emphasis>Wiki</emphasis> sirve para compartir pequeños snippets de códigos, como también
@@ -72,11 +64,6 @@ de <emphasis>Github</emphasis> para su fácil organización.</simpara>
 <section xml:id="_devs_chile">
 <title><link xl:href="https://devschile.cl/">Devs Chile</link></title>
 <simpara>Comunidad de devs chilenos. No tiene canal de <literal>#elixir</literal> 💔.</simpara>
-</section>
-<section xml:id="_programación_funcional_en_santiago">
-<title><link xl:href="https://www.meetup.com/es-ES/Programacion-Funcional-en-Santiago/">Programación Funcional en Santiago</link></title>
-<simpara>Un Meetup para personas que le guste la programación funcional
-y vivan en las cercanías de Santiago de Chile.</simpara>
 </section>
 </section>
 </chapter>
@@ -257,15 +244,10 @@ con <emphasis>Elixir</emphasis>.</simpara>
 <section xml:id="_startups">
 <title>Startups</title>
 <simpara>Empresas que utilizan <emphasis>Elixir</emphasis> dentro de sus sistemas
-y proyectos.</simpara>
-<itemizedlist>
-<listitem>
-<simpara><link xl:href="https://shinkansen.finance">https://shinkansen.finance</link></simpara>
-</listitem>
-<listitem>
-<simpara><link xl:href="https://timetask.me">https://timetask.me</link></simpara>
-</listitem>
-</itemizedlist>
+y proyectos.
+- <link xl:href="https://chaskiq.io">https://chaskiq.io</link>
+- <link xl:href="https://shinkansen.finance">https://shinkansen.finance</link>
+- <link xl:href="https://timetask.me">https://timetask.me</link></simpara>
 </section>
 </chapter>
 <chapter xml:id="_aprendizaje">

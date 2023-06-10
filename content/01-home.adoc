@@ -19,12 +19,6 @@ Nuestros Repositorios.
 #### https://discord.gg/WwSXMcMdAt[Discord]
 Unirse a Discord de Elixir Chile.
 
-#### https://t.me/elixircl[Telegram]
-También disponible por si prefieres _Telegram_.
-
-#### https://github.com/ElixirCL/elixircl/discussions[Github Discussions]
-El foro principal, ideal para debatir ideas de forma más organizada que un chat, además de que es más fácil compartir código.
-
 #### https://github.com/ElixirCL/elixircl/wiki[Github Wiki]
 
 La _Wiki_ sirve para compartir pequeños snippets de códigos, como también
@@ -49,9 +43,4 @@ El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un
 #### https://devschile.cl/[Devs Chile]
 
 Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
-
-#### https://www.meetup.com/es-ES/Programacion-Funcional-en-Santiago/[Programación Funcional en Santiago]
-
-Un Meetup para personas que le guste la programación funcional
-y vivan en las cercanías de Santiago de Chile.
 
