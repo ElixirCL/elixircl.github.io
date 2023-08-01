@@ -13,6 +13,9 @@ Si se busca asesoría o consultoría en este lenguaje.
 
 Empresas que utilizan _Elixir_ dentro de sus sistemas
 y proyectos.
+
 - https://chaskiq.io
 - https://shinkansen.finance
 - https://timetask.me
+- https://zeroq.cl
+- https://www.recorrido.cl

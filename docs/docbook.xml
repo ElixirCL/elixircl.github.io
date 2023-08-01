@@ -244,10 +244,24 @@ con <emphasis>Elixir</emphasis>.</simpara>
 <section xml:id="_startups">
 <title>Startups</title>
 <simpara>Empresas que utilizan <emphasis>Elixir</emphasis> dentro de sus sistemas
-y proyectos.
-- <link xl:href="https://chaskiq.io">https://chaskiq.io</link>
-- <link xl:href="https://shinkansen.finance">https://shinkansen.finance</link>
-- <link xl:href="https://timetask.me">https://timetask.me</link></simpara>
+y proyectos.</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://chaskiq.io">https://chaskiq.io</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://shinkansen.finance">https://shinkansen.finance</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://timetask.me">https://timetask.me</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://zeroq.cl">https://zeroq.cl</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.recorrido.cl">https://www.recorrido.cl</link></simpara>
+</listitem>
+</itemizedlist>
 </section>
 </chapter>
 <chapter xml:id="_aprendizaje">
