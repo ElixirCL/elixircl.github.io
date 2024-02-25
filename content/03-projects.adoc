@@ -1,4 +1,26 @@
 
 ## Proyectos
 
-- https://github.com/ElixirCL/rauversion-phx[Rauversion PHX]: Proyecto de Comunidad musical hecho con Elixir.
+Códigos que son un proyecto completo y funcional.
+
+- https://github.com/ElixirCL/rauversion-phx: Proyecto de Comunidad musical hecho con Elixir.
+- https://github.com/ElixirCL/mate: Un chatbot para Discord que le gusta dar Mates.
+- https://github.com/ElixirCL/rankmode: Un sistema para almacenar puntajes del juego Pump it Up.
+
+
+## Ejemplos
+
+Códigos que resuelven una tarea específca y sirven de ejemplo o para ejercitar.
+
+- https://github.com/ElixirCL/surface-hackernews: Un ejemplo de MVVM con Phoenix y Surface.
+- https://github.com/ElixirCL/surface-practice: Prácticas de Phoenix con Surface.
+- https://github.com/ElixirCL/weekly-2022: Pequeños ejercicios resueltos con Livebook.
+- https://github.com/ElixirCL/msn-chatbot: Integración de ChatGPT con MSN Messenger.
+- https://github.com/ElixirCL/kombucha: Un lenguaje de programación con probióticos.
+- https://github.com/ElixirCL/placesfind: Ejemplo de uso de la Api de Places Find.
+- https://github.com/ElixirCL/chileanbirds: Llama a la API de aves chilenas.
+- https://github.com/ElixirCL/wren-livebook: Ejecuta el lenguaje de programación Wren en Livebook.
+- https://github.com/ElixirCL/transbank-elixir: Integración de Webpay con Elixir.
+- https://github.com/ElixirCL/telegraph: Exportador de telegra.ph
+- https://github.com/ElixirCL/rut: Validador de RUT con Elixir.
+

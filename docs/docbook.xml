@@ -178,36 +178,67 @@ de un producto que pueda ser usado en ambientes de producción.</simpara>
 </section>
 </section>
 </chapter>
+<chapter xml:id="_código_de_conducta">
+<title>Código de Conducta</title>
+<simpara>Puedes leer el código completo acá: <link xl:href="https://github.com/ElixirCL/code-of-conduct">https://github.com/ElixirCL/code-of-conduct</link></simpara>
+<simpara>En resumen:</simpara>
+<simpara>Creemos en la amabilidad, respeto y buena onda en todos nuestras interacciones
+tanto online como presenciales. Por favor ser lo más buena onda posible con todos
+los participantes de la comunidad y fuera de esta.</simpara>
+</chapter>
 <chapter xml:id="_proyectos">
 <title>Proyectos</title>
+<simpara>Códigos que son un proyecto completo y funcional.</simpara>
 <itemizedlist>
 <listitem>
-<simpara><link xl:href="https://github.com/ElixirCL/rauversion-phx">Rauversion PHX</link>: Proyecto de Comunidad musical hecho con Elixir.</simpara>
+<simpara><link xl:href="https://github.com/ElixirCL/rauversion-phx">https://github.com/ElixirCL/rauversion-phx</link>: Proyecto de Comunidad musical hecho con Elixir.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/mate">https://github.com/ElixirCL/mate</link>: Un chatbot para Discord que le gusta dar Mates.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/rankmode">https://github.com/ElixirCL/rankmode</link>: Un sistema para almacenar puntajes del juego Pump it Up.</simpara>
 </listitem>
 </itemizedlist>
 </chapter>
 <chapter xml:id="_ejemplos">
 <title>Ejemplos</title>
-<simpara>Proyectos diversos. No necesariamente siguen los estándares de <emphasis>Elixir Chile</emphasis>,
-pero sirven como demostración de una tecnología o idea.</simpara>
-<section xml:id="_birds">
-<title><link xl:href="https://github.com/NinjasCL/birds/">Birds</link></title>
-<simpara>Un ejemplo de uso de <emphasis>HTTPoison</emphasis> para la creación de una página simple.</simpara>
-</section>
-<section xml:id="_cars">
-<title><link xl:href="https://github.com/NinjasCL/cars">Cars</link></title>
-<simpara>Un ejemplo de servidor <emphasis>GraphQL</emphasis> y un cliente con <emphasis>Phoenix</emphasis>.</simpara>
-</section>
-<section xml:id="_huemulixir">
-<title><link xl:href="https://github.com/NinjasCL/huemulixir">Huemulixir</link></title>
-<simpara>Un ejemplo de aplicación creada con <emphasis>Elixir Desktop</emphasis>.</simpara>
-</section>
-<section xml:id="_telegraph">
-<title><link xl:href="https://github.com/NinjasCL/telegraph">Telegraph</link></title>
-<simpara>Un cliente para <link xl:href="https://telegra.ph">https://telegra.ph</link> que transforma el contenido
-en <emphasis>Markdown</emphasis> o <emphasis>HTML</emphasis>. Ejemplo de creación de un script de consola
-con <emphasis>Elixir</emphasis>.</simpara>
-</section>
+<simpara>Códigos que resuelven una tarea específca y sirven de ejemplo o para ejercitar.</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/surface-hackernews">https://github.com/ElixirCL/surface-hackernews</link>: Un ejemplo de MVVM con Phoenix y Surface.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/surface-practice">https://github.com/ElixirCL/surface-practice</link>: Prácticas de Phoenix con Surface.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/weekly-2022">https://github.com/ElixirCL/weekly-2022</link>: Pequeños ejercicios resueltos con Livebook.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/msn-chatbot">https://github.com/ElixirCL/msn-chatbot</link>: Integración de ChatGPT con MSN Messenger.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/kombucha">https://github.com/ElixirCL/kombucha</link>: Un lenguaje de programación con probióticos.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/placesfind">https://github.com/ElixirCL/placesfind</link>: Ejemplo de uso de la Api de Places Find.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/chileanbirds">https://github.com/ElixirCL/chileanbirds</link>: Llama a la API de aves chilenas.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/wren-livebook">https://github.com/ElixirCL/wren-livebook</link>: Ejecuta el lenguaje de programación Wren en Livebook.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/transbank-elixir">https://github.com/ElixirCL/transbank-elixir</link>: Integración de Webpay con Elixir.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/telegraph">https://github.com/ElixirCL/telegraph</link>: Exportador de telegra.ph</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/rut">https://github.com/ElixirCL/rut</link>: Validador de RUT con Elixir.</simpara>
+</listitem>
+</itemizedlist>
 </chapter>
 <chapter xml:id="_empresas_internacionales">
 <title>Empresas Internacionales</title>

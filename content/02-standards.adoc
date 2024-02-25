@@ -70,3 +70,13 @@ Es una licencia que es fácil de cumplir. Puedes mezclar la licencia _MPL v2.0_ 
 - https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences[Comparativa de licencias]
 - https://shakuro.com/blog/software-licenses-explained/[Explicación de licencias de Software]
 - https://choosealicense.com/licenses/mpl-2.0/[Elegir una licencia]
+
+## Código de Conducta
+
+Puedes leer el código completo acá: https://github.com/ElixirCL/code-of-conduct
+
+En resumen:
+
+Creemos en la amabilidad, respeto y buena onda en todos nuestras interacciones
+tanto online como presenciales. Por favor ser lo más buena onda posible con todos
+los participantes de la comunidad y fuera de esta.

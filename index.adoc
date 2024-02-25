@@ -28,7 +28,7 @@ Organize your book chapter by chapter
 include::content/01-home.adoc[Introducción]
 include::content/02-standards.adoc[Estándares]
 include::content/03-projects.adoc[Proyectos]
-include::content/04-examples.adoc[Ejemplos]
+// include::content/04-examples.adoc[Ejemplos]
 include::content/05-companies-international.adoc[Empresas Internacionales]
 include::content/06-companies-chile.adoc[Empresas Nacionales]
 include::content/07-learning.adoc[¿Dónde aprender?]
