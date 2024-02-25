@@ -177,14 +177,14 @@ de un producto que pueda ser usado en ambientes de producción.</simpara>
 </itemizedlist>
 </section>
 </section>
-</chapter>
-<chapter xml:id="_código_de_conducta">
+<section xml:id="_código_de_conducta">
 <title>Código de Conducta</title>
 <simpara>Puedes leer el código completo acá: <link xl:href="https://github.com/ElixirCL/code-of-conduct">https://github.com/ElixirCL/code-of-conduct</link></simpara>
 <simpara>En resumen:</simpara>
 <simpara>Creemos en la amabilidad, respeto y buena onda en todos nuestras interacciones
 tanto online como presenciales. Por favor ser lo más buena onda posible con todos
 los participantes de la comunidad y fuera de esta.</simpara>
+</section>
 </chapter>
 <chapter xml:id="_proyectos">
 <title>Proyectos</title>
