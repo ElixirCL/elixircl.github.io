@@ -44,3 +44,7 @@ El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un
 
 Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
 
+#### https://jschile.org/[JavaScript Chile]
+
+Otra comunidad de devs chilenos.
+

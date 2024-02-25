@@ -1,2 +1,2 @@
 $ cat .gitattributes
-* text=auto
+* text=auto eol=lf

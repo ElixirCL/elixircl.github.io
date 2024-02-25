@@ -4,7 +4,7 @@
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="es">
 <info>
 <title>🧙 Elixir Chile 🇨🇱</title>
-<date>2023-06-10</date>
+<date>2024-02-25</date>
 <copyright>
 <holder>CC-BY-NC-SA 4.0</holder>
 </copyright>
@@ -64,6 +64,10 @@ de <emphasis>Github</emphasis> para su fácil organización.</simpara>
 <section xml:id="_devs_chile">
 <title><link xl:href="https://devschile.cl/">Devs Chile</link></title>
 <simpara>Comunidad de devs chilenos. No tiene canal de <literal>#elixir</literal> 💔.</simpara>
+</section>
+<section xml:id="_javascript_chile">
+<title><link xl:href="https://jschile.org/">JavaScript Chile</link></title>
+<simpara>Otra comunidad de devs chilenos.</simpara>
 </section>
 </section>
 </chapter>
@@ -176,7 +180,11 @@ de un producto que pueda ser usado en ambientes de producción.</simpara>
 </chapter>
 <chapter xml:id="_proyectos">
 <title>Proyectos</title>
-
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/rauversion-phx">Rauversion PHX</link>: Proyecto de Comunidad musical hecho con Elixir.</simpara>
+</listitem>
+</itemizedlist>
 </chapter>
 <chapter xml:id="_ejemplos">
 <title>Ejemplos</title>
