@@ -4,7 +4,7 @@
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="es">
 <info>
 <title>🧙 Elixir Chile 🇨🇱</title>
-<date>2024-02-25</date>
+<date>2025-09-09</date>
 <copyright>
 <holder>CC-BY-NC-SA 4.0</holder>
 </copyright>
@@ -265,6 +265,12 @@ los participantes de la comunidad y fuera de esta.</simpara>
 <listitem>
 <simpara><link xl:href="https://erlef.org/">https://erlef.org/</link></simpara>
 </listitem>
+<listitem>
+<simpara><link xl:href="https://erlangsolutions.com/">https://erlangsolutions.com/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/">https://altenwald.com/</link></simpara>
+</listitem>
 </itemizedlist>
 </section>
 </chapter>
@@ -342,6 +348,18 @@ resolviendo los problemas podrás aprender más el lenguaje.</simpara>
 <title>Libros</title>
 <itemizedlist>
 <listitem>
+<simpara><link xl:href="https://altenwald.com/book/elixir">https://altenwald.com/book/elixir</link>: Elixir. Introducción para Alquimistas.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/book/phoenix-framework">https://altenwald.com/book/phoenix-framework</link>: Phoenix Framework 1.7. Proyecto de Red Social en 7 días.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/book/elixir-otp">https://altenwald.com/book/elixir-otp</link>: Elixir/OTP. Alquimia con OTP.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/book/ecto">https://altenwald.com/book/ecto</link>: Ecto. Bases de Datos en Elixir.</simpara>
+</listitem>
+<listitem>
 <simpara><link xl:href="https://www.manning.com/books/elixir-in-action-second-edition">https://www.manning.com/books/elixir-in-action-second-edition</link>: Introducción al lenguaje. Altamente recomendado.</simpara>
 </listitem>
 <listitem>
@@ -375,6 +393,30 @@ resolviendo los problemas podrás aprender más el lenguaje.</simpara>
 </listitem>
 <listitem>
 <simpara><link xl:href="https://github.com/lucasvegi/Elixir-Code-Smells">https://github.com/lucasvegi/Elixir-Code-Smells</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/2025/05/02/phoenix-18-novedades-y-cambios">https://altenwald.com/2025/05/02/phoenix-18-novedades-y-cambios</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/2025/05/14/cmo-elegir-una-dependencia">https://altenwald.com/2025/05/14/cmo-elegir-una-dependencia</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/2023/12/13/abandonando-elixir">https://altenwald.com/2023/12/13/abandonando-elixir</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/2023/06/13/phoenix-framework-17-ruptura-y-nuevos-conceptos">https://altenwald.com/2023/06/13/phoenix-framework-17-ruptura-y-nuevos-conceptos</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/2023/02/23/supervisores-apagado-elegante-sin-perder-datos">https://altenwald.com/2023/02/23/supervisores-apagado-elegante-sin-perder-datos</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/2023/02/02/eventos-genevent-genstage-o-phoenixpubsub">https://altenwald.com/2023/02/02/eventos-genevent-genstage-o-phoenixpubsub</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/2023/01/14/buscaminas-de-servidor-a-mquina-de-estados">https://altenwald.com/2023/01/14/buscaminas-de-servidor-a-mquina-de-estados</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://altenwald.com/2022/12/16/ets-genserver-agent-cuando-usarlas">https://altenwald.com/2022/12/16/ets-genserver-agent-cuando-usarlas</link></simpara>
 </listitem>
 </itemizedlist>
 </section>
@@ -420,6 +462,9 @@ resolviendo los problemas podrás aprender más el lenguaje.</simpara>
 </listitem>
 <listitem>
 <simpara><link xl:href="https://hexdocs.pm/rexbug/readme.html">https://hexdocs.pm/rexbug/readme.html</link>: Ayuda en el Debug de aplicaciones.</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://lambdapad.com">https://lambdapad.com</link>: Generación de sitios web estáticos.</simpara>
 </listitem>
 </itemizedlist>
 <section xml:id="_hosting">
