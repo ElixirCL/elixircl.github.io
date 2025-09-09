@@ -27,6 +27,8 @@
 
 - https://hexdocs.pm/rexbug/readme.html: Ayuda en el Debug de aplicaciones.
 
+- https://lambdapad.com: Generación de sitios web estáticos.
+
 ### Hosting
 
 - https://www.gigalixir.com/
