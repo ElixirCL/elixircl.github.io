@@ -1,14 +1,21 @@
 
-## Proyectos
+== Proyectos
 
 Códigos que son un proyecto completo y funcional.
 
 - https://github.com/ElixirCL/rauversion-phx: Proyecto de Comunidad musical hecho con Elixir.
 - https://github.com/ElixirCL/mate: Un chatbot para Discord que le gusta dar Mates.
 - https://github.com/ElixirCL/rankmode: Un sistema para almacenar puntajes del juego Pump it Up.
+- https://github.com/ElixirCL/tololo: Ejemplo de sistema creado con Ash Framework.
 
+=== Libros
 
-## Ejemplos
+Libros escritos por la comunidad.
+
+- https://elixircl.github.io/elixir-robotics/[Elixir Robotics]: Cómo hacer robots con Elixir y AtomVM (ESP32).
+- https://elixircl.github.io/elixir-fullstack/[Elixir FullStack]: Conocimientos necesarios para aplicaciones fullstack con enfoque en Elixir.
+
+=== Ejemplos
 
 Códigos que resuelven una tarea específca y sirven de ejemplo o para ejercitar.
 
@@ -23,4 +30,3 @@ Códigos que resuelven una tarea específca y sirven de ejemplo o para ejercitar
 - https://github.com/ElixirCL/transbank-elixir: Integración de Webpay con Elixir.
 - https://github.com/ElixirCL/telegraph: Exportador de telegra.ph
 - https://github.com/ElixirCL/rut: Validador de RUT con Elixir.
-

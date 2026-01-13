@@ -46,7 +46,7 @@ la tecnología <link xl:href="https://elixir-lang.org/"><emphasis>Elixir</emphas
 tutoriales y otros tips.</simpara>
 </section>
 <section xml:id="_eventos">
-<title><link xl:href="https://github.com/orgs/ElixirCL/projects/1">Eventos</link></title>
+<title><link xl:href="https://github.com/orgs/ElixirCL/projects/3">Eventos</link></title>
 <simpara>Los eventos, meetups y otros relacionados estarán en un tablero de proyectos
 de <emphasis>Github</emphasis> para su fácil organización.</simpara>
 </section>
@@ -68,6 +68,11 @@ de <emphasis>Github</emphasis> para su fácil organización.</simpara>
 <section xml:id="_javascript_chile">
 <title><link xl:href="https://jschile.org/">JavaScript Chile</link></title>
 <simpara>Otra comunidad de devs chilenos.</simpara>
+</section>
+<section xml:id="_hackerspaces">
+<title><link xl:href="https://www.hackerspace.cl/">HackerSpaces</link></title>
+<simpara>Hackerspace Santiago (HSS) es un espacio de enseñanza, aprendizaje y experimentación que
+tiene como fundamentos filosóficos y técnicos la cultura hacker y el software libre.</simpara>
 </section>
 </section>
 </chapter>
@@ -199,9 +204,23 @@ los participantes de la comunidad y fuera de esta.</simpara>
 <listitem>
 <simpara><link xl:href="https://github.com/ElixirCL/rankmode">https://github.com/ElixirCL/rankmode</link>: Un sistema para almacenar puntajes del juego Pump it Up.</simpara>
 </listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/ElixirCL/tololo">https://github.com/ElixirCL/tololo</link>: Ejemplo de sistema creado con Ash Framework.</simpara>
+</listitem>
 </itemizedlist>
-</chapter>
-<chapter xml:id="_ejemplos">
+<section xml:id="_libros">
+<title>Libros</title>
+<simpara>Libros escritos por la comunidad.</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://elixircl.github.io/elixir-robotics/">Elixir Robotics</link>: Cómo hacer robots con Elixir y AtomVM (ESP32).</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://elixircl.github.io/elixir-fullstack/">Elixir FullStack</link>: Conocimientos necesarios para aplicaciones fullstack con enfoque en Elixir.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_ejemplos">
 <title>Ejemplos</title>
 <simpara>Códigos que resuelven una tarea específca y sirven de ejemplo o para ejercitar.</simpara>
 <itemizedlist>
@@ -239,6 +258,7 @@ los participantes de la comunidad y fuera de esta.</simpara>
 <simpara><link xl:href="https://github.com/ElixirCL/rut">https://github.com/ElixirCL/rut</link>: Validador de RUT con Elixir.</simpara>
 </listitem>
 </itemizedlist>
+</section>
 </chapter>
 <chapter xml:id="_empresas_internacionales">
 <title>Empresas Internacionales</title>
@@ -283,6 +303,9 @@ los participantes de la comunidad y fuera de esta.</simpara>
 <itemizedlist>
 <listitem>
 <simpara><link xl:href="https://modelab.cl/">https://modelab.cl/</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://ninjas.cl/">https://ninjas.cl/</link></simpara>
 </listitem>
 </itemizedlist>
 </section>
@@ -344,7 +367,7 @@ resolviendo los problemas podrás aprender más el lenguaje.</simpara>
 </listitem>
 </itemizedlist>
 </section>
-<section xml:id="_libros">
+<section xml:id="_libros_2">
 <title>Libros</title>
 <itemizedlist>
 <listitem>

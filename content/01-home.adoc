@@ -1,5 +1,5 @@
 
-## Inicio
+== Inicio
 
 Elixir Chile 🇨🇱 tiene el objetivo de crear artefactos
 de software, documentación y actividades para el fomento de
@@ -11,40 +11,44 @@ la tecnología https://elixir-lang.org/[_Elixir_] en el país.
 </p>
 ++++
 
-### Comunidad
+=== Comunidad
 
-#### https://github.com/ElixirCL/[Github]
+==== https://github.com/ElixirCL/[Github]
 Nuestros Repositorios.
 
-#### https://discord.gg/WwSXMcMdAt[Discord]
+==== https://discord.gg/WwSXMcMdAt[Discord]
 Unirse a Discord de Elixir Chile.
 
-#### https://github.com/ElixirCL/elixircl/wiki[Github Wiki]
+==== https://github.com/ElixirCL/elixircl/wiki[Github Wiki]
 
 La _Wiki_ sirve para compartir pequeños snippets de códigos, como también
 tutoriales y otros tips.
 
-#### https://github.com/orgs/ElixirCL/projects/1[Eventos]
+==== https://github.com/orgs/ElixirCL/projects/3[Eventos]
 
 Los eventos, meetups y otros relacionados estarán en un tablero de proyectos
 de _Github_ para su fácil organización.
 
 
-### Comunidades Amigas
+=== Comunidades Amigas
 
-#### https://elixir-slackin.herokuapp.com/[Elixir Oficial]
+==== https://elixir-slackin.herokuapp.com/[Elixir Oficial]
 
 El chat oficial de _Elixir_. Quizás puedas visitar el canal https://elixir-lang.slack.com/archives/C0N8NB332[`#chile`].
 
-#### https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w[Elixir Japan]
+==== https://join.slack.com/t/elixirjp/shared_invite/zt-ae8m5bad-WW69GH1w4iuafm1tKNgd~w[Elixir Japan]
 
 El canal de https://elixirjp.slack.com/archives/C01JMMZM0SH[`#autoraceex`] es un buen sitio para compartir el amor por _Elixir_.
 
-#### https://devschile.cl/[Devs Chile]
+==== https://devschile.cl/[Devs Chile]
 
 Comunidad de devs chilenos. No tiene canal de `#elixir` 💔.
 
-#### https://jschile.org/[JavaScript Chile]
+==== https://jschile.org/[JavaScript Chile]
 
 Otra comunidad de devs chilenos.
 
+==== https://www.hackerspace.cl/[HackerSpaces]
+
+Hackerspace Santiago (HSS) es un espacio de enseñanza, aprendizaje y experimentación que 
+tiene como fundamentos filosóficos y técnicos la cultura hacker y el software libre.
